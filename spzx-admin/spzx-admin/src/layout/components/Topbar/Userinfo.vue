@@ -74,7 +74,7 @@ import { useUserinfo } from '@/components/Avatar/hooks/useUserinfo'
 import LockModal from './LockModal.vue'
 import { useApp } from '@/pinia/modules/app'
 
-import { defineComponent , getCurrentInstance} from 'vue'
+import { defineComponent, getCurrentInstance } from 'vue'
 import { Logout } from '@/api/login'
 
 export default defineComponent({
@@ -90,20 +90,19 @@ export default defineComponent({
 
     // 退出
     const logout = async () => {
-        const { code ,  data , message } = await Logout() ;
-        if(code == 200) {
-            // 清除token
-            useApp().clearToken()
-            router.push('/login')
-        }else {
-            ctx.$message.error(message)
-        }
-
+      const { code, data, message } = await Logout()
+      if (code == 200) {
+        // 清除token
+        useApp().clearToken()
+        router.push('/login')
+      } else {
+        ctx.$message.error(message)
+      }
     }
 
     return {
-        userinfo,
-        logout,
+      userinfo,
+      logout,
     }
   },
 })

@@ -23,8 +23,8 @@ export const Login = data => {
 // 获取验证码
 export const GetValidateCode = () => {
   return request({
-    url: "/admin/system/index/generateValidateCode",
-    method: 'get'
+    url: '/admin/system/index/generateValidateCode',
+    method: 'get',
   })
 }
 
@@ -39,7 +39,7 @@ export const GetUserinfo = () => {
 // 退出功能
 export const Logout = () => {
   return request({
-      url: '/admin/system/index/logout',
-      method: 'get',
+    url: '/admin/system/index/logout',
+    method: 'get',
   })
 }

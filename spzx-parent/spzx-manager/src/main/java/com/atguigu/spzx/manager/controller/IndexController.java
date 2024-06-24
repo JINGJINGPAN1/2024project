@@ -36,6 +36,7 @@ public class IndexController {
      //获取当前用户的登录信息
     @GetMapping(value = "/getUserInfo")
     public Result getUserInfo(){
+
         return Result.build(AuthContextUtil.get(), ResultCodeEnum.SUCCESS);
     }
 

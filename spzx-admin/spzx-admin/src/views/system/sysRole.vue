@@ -3,20 +3,40 @@
     <!-- 搜索表单 -->
     <el-form label-width="70px" size="small">
       <el-form-item label="角色名称">
-        <el-input style="width: 100%" placeholder="角色名称"></el-input>
+        <el-input
+          v-model="queryDto.roleName"
+          style="width: 100%"
+          placeholder="角色名称"
+        ></el-input>
       </el-form-item>
       <el-row style="display:flex">
-        <el-button type="primary" size="small">
+        <el-button type="primary" size="small" @click="searchSysRole">
           搜索
         </el-button>
-        <el-button size="small">重置</el-button>
+        <el-button size="small" @click="resetData">重置</el-button>
       </el-row>
     </el-form>
 
     <!-- 添加按钮 -->
     <div class="tools-div">
-      <el-button type="success" size="small">添 加</el-button>
+      <el-button type="success" size="small" @click="addShow">添 加</el-button>
     </div>
+
+    <!-- 添加角色表单对话框 -->
+    <el-dialog v-model="dialogVisible" title="添加或修改角色" width="30%">
+      <el-form label-width="120px">
+        <el-form-item label="角色名称">
+          <el-input v-model="sysRole.roleName" />
+        </el-form-item>
+        <el-form-item label="角色Code">
+          <el-input v-model="sysRole.roleCode" />
+        </el-form-item>
+        <el-form-item>
+          <el-button type="primary" @click="submit">提交</el-button>
+          <el-button @click="dialogVisible = false">取消</el-button>
+        </el-form-item>
+      </el-form>
+    </el-dialog>
 
     <!--- 角色表格数据 -->
     <el-table :data="list" style="width: 100%">
@@ -35,7 +55,11 @@
 
     <!--分页条-->
     <el-pagination
+      v-model:current-page="pageParams.page"
+      v-model:page-size="pageParams.limit"
       :page-sizes="[10, 20, 50, 100]"
+      @size-change="fetchData"
+      @current-change="fetchData"
       layout="total, sizes, prev, pager, next"
       :total="total"
     />
@@ -43,26 +67,73 @@
 </template>
 
 <script setup>
-import { ref } from 'vue'
+import { ref, onMounted } from 'vue'
+import { GetSysRoleListByPage, SaveSysRole } from '@/api/sysRole'
+import { ElMessage } from 'element-plus'
 
-// 分页条总记录数
-let total = ref(0)
+//角色添加
+const roleForm = {
+  id: '',
+  roleName: '',
+  roleCode: '',
+}
+const sysRole = ref(roleForm)
 
-// 定义表格数据模型
-let list = ref([
-  {
-    id: 9,
-    roleName: '系统管理员',
-    roleCode: 'xtgly',
-    createTime: '2023-07-31',
-  },
-  {
-    id: 10,
-    roleName: '商品管理员',
-    roleCode: 'spgly',
-    createTime: '2023-07-31',
-  },
-])
+// 弹框设置 true弹出框
+const dialogVisible = ref(false)
+
+//点击添加弹出框的方法
+const addShow = () => {
+  dialogVisible.value = true
+}
+
+//添加的方法
+const submit = async () => {
+  const { code } = await SaveSysRole(sysRole.value)
+  if (code === 200) {
+    // 关闭弹框
+    dialogVisible.value = false
+    // 提示信息
+    ElMessage.success('操作成功')
+    // 刷新页面
+    fetchData()
+  }
+}
+
+//角色列表
+// 定义数据模型
+let list = ref([]) // 角色列表
+let total = ref(0) // 总记录数
+
+//分页数据
+const pageParamsForm = {
+  page: 1, //当前页
+  limit: 3, //每页记录数
+}
+const pageParams = ref(pageParamsForm) // 将pageParamsForm包装成支持响应式的对象
+const queryDto = ref({ roleName: '' }) // 条件封装数据
+
+// 页面加载完毕以后请求后端接口获取数据
+onMounted(() => {
+  fetchData()
+})
+
+//操作方法： 列表方法和搜索方法
+//列表方法： axios请求调用接口得到列表数据
+const fetchData = async () => {
+  const { data, code, message } = await GetSysRoleListByPage(
+    pageParams.value.page,
+    pageParams.value.limit,
+    queryDto.value
+  )
+  list.value = data.list
+  total.value = data.total
+}
+
+// 搜索方法
+const searchSysRole = () => {
+  fetchData()
+}
 </script>
 
 <style scoped>

@@ -10,6 +10,22 @@
         id,role_name,role_code,description,create_time,update_time,is_deleted
     </sql>
 
+    <!-- // 角色添加的方法-->
+    <insert id="save">
+        insert into sys_role (
+            id,
+            role_name,
+            role_code,
+            description
+        ) values (
+                #{id},
+                #{roleName},
+                #{roleCode},
+                #{description}
+        )
+
+    </insert>
+
     <!-- // 角色列表的方法-->
     <select id="findByPage" resultMap ="sysRoleMap">
         select <include refid= "columns"/>

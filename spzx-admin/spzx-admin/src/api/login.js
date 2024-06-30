@@ -43,3 +43,8 @@ export const Logout = () => {
     method: 'get',
   })
 }
+
+// 打印函数
+export const Debug = s => {
+  console.log(s)
+}

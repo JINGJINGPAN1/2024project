@@ -43,8 +43,8 @@
       <el-table-column prop="roleName" label="角色名称" width="180" />
       <el-table-column prop="roleCode" label="角色code" width="180" />
       <el-table-column prop="createTime" label="创建时间" />
-      <el-table-column label="操作" align="center" width="280">
-        <el-button type="primary" size="small">
+      <el-table-column label="操作" align="center" width="280" #default="scope">
+        <el-button type="primary" size="small" @click="editShow(scope.row)">
           修改
         </el-button>
         <el-button type="danger" size="small">
@@ -55,8 +55,8 @@
 
     <!--分页条-->
     <el-pagination
-      v-model:current-page="pageParams.page"
-      v-model:page-size="pageParams.limit"
+      :current-page="pageParams.page"
+      :page-size="pageParams.limit"
       :page-sizes="[10, 20, 50, 100]"
       @size-change="fetchData"
       @current-change="fetchData"
@@ -68,10 +68,11 @@
 
 <script setup>
 import { ref, onMounted } from 'vue'
-import { GetSysRoleListByPage, SaveSysRole } from '@/api/sysRole'
+import { GetSysRoleListByPage, SaveSysRole, UpdateSysRole } from '@/api/sysRole'
 import { ElMessage } from 'element-plus'
+import { Debug } from '@/api/login'
 
-//角色添加
+//角色添加和修改
 const roleForm = {
   id: '',
   roleName: '',
@@ -82,21 +83,44 @@ const sysRole = ref(roleForm)
 // 弹框设置 true弹出框
 const dialogVisible = ref(false)
 
-//点击添加弹出框的方法
-const addShow = () => {
+//弹出框进行数据回显
+const editShow = row => {
+  //对象拓展运算符号
+  sysRole.value = { ...row }
   dialogVisible.value = true
 }
 
-//添加的方法
+//点击添加弹出框的方法
+const addShow = () => {
+  sysRole.value = {}
+  dialogVisible.value = true
+}
+
+//添加和修改的方法
+// 判断sysRole包含id值进行修改操作，不包含id进行添加操作
 const submit = async () => {
-  const { code } = await SaveSysRole(sysRole.value)
-  if (code === 200) {
-    // 关闭弹框
-    dialogVisible.value = false
-    // 提示信息
-    ElMessage.success('操作成功')
-    // 刷新页面
-    fetchData()
+  if (!sysRole.value.id) {
+    //没有id，添加操作
+    const { code } = await SaveSysRole(sysRole.value)
+    if (code === 200) {
+      // 关闭弹框
+      dialogVisible.value = false
+      // 提示信息
+      ElMessage.success('操作成功')
+      // 刷新页面
+      fetchData()
+    }
+  } else {
+    //有id，修改操作
+    const { code } = await UpdateSysRole(sysRole.value)
+    if (code === 200) {
+      // 关闭弹框
+      dialogVisible.value = false
+      // 提示信息
+      ElMessage.success('操作成功')
+      // 刷新页面
+      fetchData()
+    }
   }
 }
 
@@ -111,7 +135,7 @@ const pageParamsForm = {
   limit: 3, //每页记录数
 }
 const pageParams = ref(pageParamsForm) // 将pageParamsForm包装成支持响应式的对象
-const queryDto = ref({ roleName: '' }) // 条件封装数据
+const queryDto = ref({ roleName: '' }) //条件封装数据
 
 // 页面加载完毕以后请求后端接口获取数据
 onMounted(() => {
@@ -128,6 +152,8 @@ const fetchData = async () => {
   )
   list.value = data.list
   total.value = data.total
+  Debug(list.value)
+  Debug(total.value)
 }
 
 // 搜索方法

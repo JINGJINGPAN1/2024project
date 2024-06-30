@@ -16,6 +16,13 @@ public class SysRoleController {
     @Autowired
     private SysRoleService sysRoleService;
 
+    // 3 角色修改的方法
+    @PutMapping("/updateSysRole")
+    public Result updateSysRole(@RequestBody SysRole sysRole){
+        sysRoleService.updateSysRole(sysRole);
+        return Result.build(null, ResultCodeEnum.SUCCESS);
+    }
+
     // 2 角色添加的方法
     @PostMapping(value = "/saveSysRole")
     public Result saveSysRole(@RequestBody SysRole sysRole){

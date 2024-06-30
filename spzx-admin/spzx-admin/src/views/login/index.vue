@@ -48,9 +48,9 @@
       </el-form-item>
     </el-form>
   </div>
-  <div class="change-lang">
+  <!-- <div class="change-lang">
     <change-lang />
-  </div>
+  </div> -->
 </template>
 
 <script>
@@ -64,7 +64,7 @@ import {
   onMounted,
   watch,
 } from 'vue'
-import { Login, GetValidateCode } from '@/api/login'
+import { Login, GetValidateCode, Debug } from '@/api/login'
 import { useRouter, useRoute } from 'vue-router'
 import ChangeLang from '@/layout/components/Topbar/ChangeLang.vue'
 import useLang from '@/i18n/useLang'
@@ -130,6 +130,7 @@ export default defineComponent({
         const { data } = await GetValidateCode()
         state.model.codeKey = data.codeKey
         state.captchaSrc = data.codeValue
+        Debug(state.captchaSrc)
       },
       btnText: computed(() =>
         state.loading ? ctx.$t('login.logining') : ctx.$t('login.login')

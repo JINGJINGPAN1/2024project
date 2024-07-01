@@ -16,6 +16,13 @@ public class SysRoleController {
     @Autowired
     private SysRoleService sysRoleService;
 
+    // 4 角色删除的方法
+    @DeleteMapping("/deleteById/{roleId}")
+    public Result deleteById(@PathVariable ("roleId") Long roleId){
+        sysRoleService.deleteById(roleId);
+        return Result.build(null, ResultCodeEnum.SUCCESS);
+    }
+
     // 3 角色修改的方法
     @PutMapping("/updateSysRole")
     public Result updateSysRole(@RequestBody SysRole sysRole){

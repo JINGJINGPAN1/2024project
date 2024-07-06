@@ -55,8 +55,8 @@
 
     <!--分页条-->
     <el-pagination
-      :current-page="pageParams.page"
-      :page-size="pageParams.limit"
+      current-page="pageParams.page"
+      page-size="pageParams.limit"
       :page-sizes="[10, 20, 50, 100]"
       @size-change="fetchData"
       @current-change="fetchData"

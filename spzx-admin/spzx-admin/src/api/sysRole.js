@@ -1,5 +1,4 @@
 import request from '@/utils/request'
-import SysRole from '@/views/system/sysRole.vue'
 const base_api = '/admin/system/sysRole'
 
 // 角色列表

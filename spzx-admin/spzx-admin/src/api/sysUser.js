@@ -37,3 +37,12 @@ export const DeleteSysUser = userId => {
     method: 'delete', //提交方式
   })
 }
+
+// 给用户分配角色请求
+export const DoAssignRoleToUser = assignRoleVo => {
+  return request({
+    url: `${base_api}/doAssign`, //路径
+    method: 'post', //提交方式
+    data: assignRoleVo, //其他参数
+  })
+}

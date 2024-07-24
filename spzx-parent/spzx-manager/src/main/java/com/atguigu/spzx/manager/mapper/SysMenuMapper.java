@@ -8,6 +8,14 @@ import java.util.List;
 @Mapper
 public interface SysMenuMapper {
     List<SysMenu> findAll();
-    // 1 查询所有菜单，返回list集合
+
+    //添加菜单
+    void save(SysMenu sysMenu);
+
+    void update(SysMenu sysMenu);
+
+    int selectCount(Long id);
+
+    void delete(Long id);
     
 }

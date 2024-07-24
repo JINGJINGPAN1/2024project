@@ -1,0 +1,1013 @@
+2024-07-09 14:52:40 Starting ManagerApplication using Java 17.0.11 with PID 47649 (/Users/jingjingpan/Desktop/2024project/spzx-parent/spzx-manager/target/classes started by jingjingpan in /Users/jingjingpan/Desktop/2024project/spzx-parent)
+2024-07-09 14:52:40 The following 1 profile is active: "dev"
+2024-07-09 14:52:40 Multiple Spring Data modules found, entering strict repository configuration mode
+2024-07-09 14:52:40 Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-07-09 14:52:40 Finished Spring Data repository scanning in 3 ms. Found 0 Redis repository interfaces.
+2024-07-09 14:52:41 Tomcat initialized with port(s): 8501 (http)
+2024-07-09 14:52:41 Initializing ProtocolHandler ["http-nio-8501"]
+2024-07-09 14:52:41 Starting service [Tomcat]
+2024-07-09 14:52:41 Starting Servlet engine: [Apache Tomcat/10.1.7]
+2024-07-09 14:52:41 Initializing Spring embedded WebApplicationContext
+2024-07-09 14:52:41 Root WebApplicationContext: initialization completed in 550 ms
+2024-07-09 14:52:41 Starting ProtocolHandler ["http-nio-8501"]
+2024-07-09 14:52:41 Tomcat started on port(s): 8501 (http) with context path ''
+2024-07-09 14:52:41 Started ManagerApplication in 1.554 seconds (process running for 1.832)
+2024-07-09 20:09:30 Starting ManagerApplication using Java 17.0.11 with PID 48439 (/Users/jingjingpan/Desktop/2024project/spzx-parent/spzx-manager/target/classes started by jingjingpan in /Users/jingjingpan/Desktop/2024project/spzx-parent)
+2024-07-09 20:09:30 The following 1 profile is active: "dev"
+2024-07-09 20:09:31 Multiple Spring Data modules found, entering strict repository configuration mode
+2024-07-09 20:09:31 Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-07-09 20:09:31 Finished Spring Data repository scanning in 3 ms. Found 0 Redis repository interfaces.
+2024-07-09 20:09:31 Tomcat initialized with port(s): 8501 (http)
+2024-07-09 20:09:31 Initializing ProtocolHandler ["http-nio-8501"]
+2024-07-09 20:09:31 Starting service [Tomcat]
+2024-07-09 20:09:31 Starting Servlet engine: [Apache Tomcat/10.1.7]
+2024-07-09 20:09:31 Initializing Spring embedded WebApplicationContext
+2024-07-09 20:09:31 Root WebApplicationContext: initialization completed in 569 ms
+2024-07-09 20:09:31 Starting ProtocolHandler ["http-nio-8501"]
+2024-07-09 20:09:31 Tomcat started on port(s): 8501 (http) with context path ''
+2024-07-09 20:09:32 Started ManagerApplication in 1.487 seconds (process running for 1.85)
+2024-07-09 20:34:46 Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-07-09 20:34:46 Initializing Servlet 'dispatcherServlet'
+2024-07-09 20:34:46 Completed initialization in 4 ms
+2024-07-09 21:04:52 Starting ManagerApplication using Java 17.0.11 with PID 49667 (/Users/jingjingpan/Desktop/2024project/spzx-parent/spzx-manager/target/classes started by jingjingpan in /Users/jingjingpan/Desktop/2024project/spzx-parent)
+2024-07-09 21:04:52 The following 1 profile is active: "dev"
+2024-07-09 21:04:52 Multiple Spring Data modules found, entering strict repository configuration mode
+2024-07-09 21:04:52 Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-07-09 21:04:52 Finished Spring Data repository scanning in 4 ms. Found 0 Redis repository interfaces.
+2024-07-09 21:04:53 Tomcat initialized with port(s): 8501 (http)
+2024-07-09 21:04:53 Initializing ProtocolHandler ["http-nio-8501"]
+2024-07-09 21:04:53 Starting service [Tomcat]
+2024-07-09 21:04:53 Starting Servlet engine: [Apache Tomcat/10.1.7]
+2024-07-09 21:04:53 Initializing Spring embedded WebApplicationContext
+2024-07-09 21:04:53 Root WebApplicationContext: initialization completed in 599 ms
+2024-07-09 21:04:53 Starting ProtocolHandler ["http-nio-8501"]
+2024-07-09 21:04:53 Tomcat started on port(s): 8501 (http) with context path ''
+2024-07-09 21:04:53 Started ManagerApplication in 1.588 seconds (process running for 1.874)
+2024-07-09 21:04:57 Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-07-09 21:04:57 Initializing Servlet 'dispatcherServlet'
+2024-07-09 21:04:57 Completed initialization in 2 ms
+2024-07-09 21:21:20 Starting ManagerApplication using Java 17.0.11 with PID 49802 (/Users/jingjingpan/Desktop/2024project/spzx-parent/spzx-manager/target/classes started by jingjingpan in /Users/jingjingpan/Desktop/2024project/spzx-parent)
+2024-07-09 21:21:20 The following 1 profile is active: "dev"
+2024-07-09 21:21:21 Multiple Spring Data modules found, entering strict repository configuration mode
+2024-07-09 21:21:21 Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-07-09 21:21:21 Finished Spring Data repository scanning in 4 ms. Found 0 Redis repository interfaces.
+2024-07-09 21:21:21 Tomcat initialized with port(s): 8501 (http)
+2024-07-09 21:21:21 Initializing ProtocolHandler ["http-nio-8501"]
+2024-07-09 21:21:21 Starting service [Tomcat]
+2024-07-09 21:21:21 Starting Servlet engine: [Apache Tomcat/10.1.7]
+2024-07-09 21:21:21 Initializing Spring embedded WebApplicationContext
+2024-07-09 21:21:21 Root WebApplicationContext: initialization completed in 537 ms
+2024-07-09 21:21:22 Starting ProtocolHandler ["http-nio-8501"]
+2024-07-09 21:21:22 Tomcat started on port(s): 8501 (http) with context path ''
+2024-07-09 21:21:22 Started ManagerApplication in 1.445 seconds (process running for 1.702)
+2024-07-09 21:21:29 Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-07-09 21:21:29 Initializing Servlet 'dispatcherServlet'
+2024-07-09 21:21:29 Completed initialization in 1 ms
+2024-07-09 21:58:07 Starting ManagerApplication using Java 17.0.11 with PID 50004 (/Users/jingjingpan/Desktop/2024project/spzx-parent/spzx-manager/target/classes started by jingjingpan in /Users/jingjingpan/Desktop/2024project/spzx-parent)
+2024-07-09 21:58:07 The following 1 profile is active: "dev"
+2024-07-09 21:58:07 Multiple Spring Data modules found, entering strict repository configuration mode
+2024-07-09 21:58:07 Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-07-09 21:58:07 Finished Spring Data repository scanning in 3 ms. Found 0 Redis repository interfaces.
+2024-07-09 21:58:07 Tomcat initialized with port(s): 8501 (http)
+2024-07-09 21:58:07 Initializing ProtocolHandler ["http-nio-8501"]
+2024-07-09 21:58:07 Starting service [Tomcat]
+2024-07-09 21:58:07 Starting Servlet engine: [Apache Tomcat/10.1.7]
+2024-07-09 21:58:07 Initializing Spring embedded WebApplicationContext
+2024-07-09 21:58:07 Root WebApplicationContext: initialization completed in 529 ms
+2024-07-09 21:58:08 Starting ProtocolHandler ["http-nio-8501"]
+2024-07-09 21:58:08 Tomcat started on port(s): 8501 (http) with context path ''
+2024-07-09 21:58:08 Started ManagerApplication in 1.43 seconds (process running for 1.723)
+2024-07-09 21:58:14 Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-07-09 21:58:14 Initializing Servlet 'dispatcherServlet'
+2024-07-09 21:58:14 Completed initialization in 1 ms
+2024-07-09 23:31:37 Starting ManagerApplication using Java 17.0.11 with PID 50713 (/Users/jingjingpan/Desktop/2024project/spzx-parent/spzx-manager/target/classes started by jingjingpan in /Users/jingjingpan/Desktop/2024project/spzx-parent)
+2024-07-09 23:31:37 The following 1 profile is active: "dev"
+2024-07-09 23:31:38 Multiple Spring Data modules found, entering strict repository configuration mode
+2024-07-09 23:31:38 Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-07-09 23:31:38 Finished Spring Data repository scanning in 3 ms. Found 0 Redis repository interfaces.
+2024-07-09 23:31:38 Tomcat initialized with port(s): 8501 (http)
+2024-07-09 23:31:38 Initializing ProtocolHandler ["http-nio-8501"]
+2024-07-09 23:31:38 Starting service [Tomcat]
+2024-07-09 23:31:38 Starting Servlet engine: [Apache Tomcat/10.1.7]
+2024-07-09 23:31:38 Initializing Spring embedded WebApplicationContext
+2024-07-09 23:31:38 Root WebApplicationContext: initialization completed in 584 ms
+2024-07-09 23:31:39 Starting ProtocolHandler ["http-nio-8501"]
+2024-07-09 23:31:39 Tomcat started on port(s): 8501 (http) with context path ''
+2024-07-09 23:31:39 Started ManagerApplication in 1.509 seconds (process running for 2.083)
+2024-07-09 23:34:48 Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-07-09 23:34:48 Initializing Servlet 'dispatcherServlet'
+2024-07-09 23:34:48 Completed initialization in 3 ms
+2024-07-09 23:34:54 HikariPool-1 - Starting...
+2024-07-09 23:34:56 HikariPool-1 - Exception during pool initialization.
+java.sql.SQLSyntaxErrorException: Unknown database 'db_spzx'
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:120)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:824)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:444)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:237)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.zaxxer.hikari.util.DriverDataSource.getConnection(DriverDataSource.java:138)
+	at com.zaxxer.hikari.pool.PoolBase.newConnection(PoolBase.java:359)
+	at com.zaxxer.hikari.pool.PoolBase.newPoolEntry(PoolBase.java:201)
+	at com.zaxxer.hikari.pool.HikariPool.createPoolEntry(HikariPool.java:470)
+	at com.zaxxer.hikari.pool.HikariPool.checkFailFast(HikariPool.java:561)
+	at com.zaxxer.hikari.pool.HikariPool.<init>(HikariPool.java:100)
+	at com.zaxxer.hikari.HikariDataSource.getConnection(HikariDataSource.java:112)
+	at org.springframework.jdbc.datasource.DataSourceUtils.fetchConnection(DataSourceUtils.java:159)
+	at org.springframework.jdbc.datasource.DataSourceUtils.doGetConnection(DataSourceUtils.java:117)
+	at org.springframework.jdbc.datasource.DataSourceUtils.getConnection(DataSourceUtils.java:80)
+	at org.mybatis.spring.transaction.SpringManagedTransaction.openConnection(SpringManagedTransaction.java:80)
+	at org.mybatis.spring.transaction.SpringManagedTransaction.getConnection(SpringManagedTransaction.java:67)
+	at org.apache.ibatis.executor.BaseExecutor.getConnection(BaseExecutor.java:337)
+	at org.apache.ibatis.executor.SimpleExecutor.prepareStatement(SimpleExecutor.java:86)
+	at org.apache.ibatis.executor.SimpleExecutor.doQuery(SimpleExecutor.java:62)
+	at org.apache.ibatis.executor.BaseExecutor.queryFromDatabase(BaseExecutor.java:325)
+	at org.apache.ibatis.executor.BaseExecutor.query(BaseExecutor.java:156)
+	at org.apache.ibatis.executor.CachingExecutor.query(CachingExecutor.java:109)
+	at com.github.pagehelper.PageInterceptor.intercept(PageInterceptor.java:132)
+	at org.apache.ibatis.plugin.Plugin.invoke(Plugin.java:62)
+	at jdk.proxy2/jdk.proxy2.$Proxy125.query(Unknown Source)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.selectList(DefaultSqlSession.java:151)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.selectList(DefaultSqlSession.java:145)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.selectList(DefaultSqlSession.java:140)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.selectOne(DefaultSqlSession.java:76)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.mybatis.spring.SqlSessionTemplate$SqlSessionInterceptor.invoke(SqlSessionTemplate.java:425)
+	at jdk.proxy2/jdk.proxy2.$Proxy83.selectOne(Unknown Source)
+	at org.mybatis.spring.SqlSessionTemplate.selectOne(SqlSessionTemplate.java:160)
+	at org.apache.ibatis.binding.MapperMethod.execute(MapperMethod.java:87)
+	at org.apache.ibatis.binding.MapperProxy$PlainMethodInvoker.invoke(MapperProxy.java:145)
+	at org.apache.ibatis.binding.MapperProxy.invoke(MapperProxy.java:86)
+	at jdk.proxy2/jdk.proxy2.$Proxy84.selectUserInfoByUserName(Unknown Source)
+	at com.atguigu.spzx.manager.service.impl.SysUserServiceImpl.login(SysUserServiceImpl.java:68)
+	at com.atguigu.spzx.manager.controller.IndexController.login(IndexController.java:68)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:207)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:152)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:118)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:884)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:797)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1081)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:974)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1011)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:914)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:563)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:631)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:205)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:166)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:493)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:341)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:390)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:894)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1741)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:842)
+2024-07-10 08:20:04 Starting ManagerApplication using Java 17.0.11 with PID 51728 (/Users/jingjingpan/Desktop/2024project/spzx-parent/spzx-manager/target/classes started by jingjingpan in /Users/jingjingpan/Desktop/2024project/spzx-parent)
+2024-07-10 08:20:04 The following 1 profile is active: "dev"
+2024-07-10 08:20:04 Multiple Spring Data modules found, entering strict repository configuration mode
+2024-07-10 08:20:04 Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-07-10 08:20:04 Finished Spring Data repository scanning in 3 ms. Found 0 Redis repository interfaces.
+2024-07-10 08:20:04 Tomcat initialized with port(s): 8501 (http)
+2024-07-10 08:20:04 Initializing ProtocolHandler ["http-nio-8501"]
+2024-07-10 08:20:04 Starting service [Tomcat]
+2024-07-10 08:20:04 Starting Servlet engine: [Apache Tomcat/10.1.7]
+2024-07-10 08:20:04 Initializing Spring embedded WebApplicationContext
+2024-07-10 08:20:04 Root WebApplicationContext: initialization completed in 549 ms
+2024-07-10 08:20:05 Starting ProtocolHandler ["http-nio-8501"]
+2024-07-10 08:20:05 Tomcat started on port(s): 8501 (http) with context path ''
+2024-07-10 08:20:05 Started ManagerApplication in 1.516 seconds (process running for 1.885)
+2024-07-10 08:21:00 Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-07-10 08:21:00 Initializing Servlet 'dispatcherServlet'
+2024-07-10 08:21:00 Completed initialization in 8 ms
+2024-07-10 08:21:07 HikariPool-1 - Starting...
+2024-07-10 08:21:07 HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@7ce3a9e
+2024-07-10 08:21:07 HikariPool-1 - Start completed.
+2024-07-10 08:37:44 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=14m36s985ms).
+2024-07-10 08:48:46 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m2s56ms).
+2024-07-10 08:53:31 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=3m14s832ms).
+2024-07-10 08:55:21 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=49s731ms).
+2024-07-10 09:19:23 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=7m1s949ms).
+2024-07-10 09:24:36 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m13s655ms).
+2024-07-10 09:37:17 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=12m40s400ms).
+2024-07-10 10:02:44 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=25m27s393ms).
+2024-07-10 10:45:32 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=42m47s658ms).
+2024-07-10 10:56:11 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m39s729ms).
+2024-07-10 11:19:56 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=23m44s638ms).
+2024-07-10 11:24:27 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=4m30s633ms).
+2024-07-10 11:43:11 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=18m44s245ms).
+2024-07-10 11:59:24 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=16m12s982ms).
+2024-07-10 12:05:46 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m51s699ms).
+2024-07-10 12:29:18 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=23m32s796ms).
+2024-07-10 13:43:15 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h12m57s4ms).
+2024-07-10 13:53:28 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=10m12s207ms).
+2024-07-10 14:23:04 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=29m36s582ms).
+2024-07-10 14:39:12 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=16m7s595ms).
+2024-07-10 16:04:24 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h25m12s634ms).
+2024-07-10 17:26:45 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h22m20s874ms).
+2024-07-10 18:42:35 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h15m49s804ms).
+2024-07-10 20:20:44 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h38m8s494ms).
+2024-07-10 21:44:13 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h23m29s776ms).
+2024-07-10 22:01:55 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=17m41s349ms).
+2024-07-10 22:28:53 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=24m28s503ms).
+2024-07-10 22:59:34 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=30m41s216ms).
+2024-07-10 23:06:33 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=6m58s121ms).
+2024-07-10 23:25:12 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=18m39s830ms).
+2024-07-10 23:41:43 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=16m30s781ms).
+2024-07-10 23:51:19 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m35s383ms).
+2024-07-10 23:55:10 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=3m51s868ms).
+2024-07-11 00:06:10 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=10m59s515ms).
+2024-07-11 00:30:50 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=24m40s76ms).
+2024-07-11 00:49:13 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=18m22s787ms).
+2024-07-11 01:31:53 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=42m40s2ms).
+2024-07-11 01:51:18 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=19m25s192ms).
+2024-07-11 02:09:17 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=17m29s226ms).
+2024-07-11 02:32:54 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=23m37s75ms).
+2024-07-11 03:09:53 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=36m58s737ms).
+2024-07-11 03:49:11 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=39m18s421ms).
+2024-07-11 04:30:30 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=41m18s968ms).
+2024-07-11 05:04:24 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=33m53s909ms).
+2024-07-11 05:34:49 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=30m24s507ms).
+2024-07-11 06:12:16 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=37m27s64ms).
+2024-07-11 06:30:21 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=18m5s96ms).
+2024-07-11 07:00:20 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=29m59s209ms).
+2024-07-11 07:13:25 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=13m4s489ms).
+2024-07-11 07:30:53 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=17m28s404ms).
+2024-07-11 07:54:08 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=23m14s365ms).
+2024-07-11 08:09:51 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=15m43s289ms).
+2024-07-11 08:13:29 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=3m38s64ms).
+2024-07-11 08:37:52 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=24m22s656ms).
+2024-07-11 09:17:03 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=39m11s430ms).
+2024-07-11 09:22:00 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=4m56s557ms).
+2024-07-11 09:27:43 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m43s547ms).
+2024-07-11 09:31:55 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=4m11s842ms).
+2024-07-11 09:41:59 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m34s540ms).
+2024-07-11 10:14:19 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=32m19s542ms).
+2024-07-11 10:32:51 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=16m50s327ms).
+2024-07-11 11:08:32 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=35m40s408ms).
+2024-07-11 12:05:02 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=56m30s62ms).
+2024-07-11 12:22:06 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=17m4s61ms).
+2024-07-11 12:33:13 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=11m7s223ms).
+2024-07-11 12:39:26 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=6m12s945ms).
+2024-07-11 13:40:45 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h1m19s486ms).
+2024-07-11 14:29:22 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=48m36s719ms).
+2024-07-11 14:45:28 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=16m5s969ms).
+2024-07-11 14:59:32 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=12m33s931ms).
+2024-07-11 15:03:31 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=3m59s175ms).
+2024-07-11 15:22:14 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=18m42s433ms).
+2024-07-11 16:05:35 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=42m21s714ms).
+2024-07-11 16:14:40 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m4s331ms).
+2024-07-11 16:44:50 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=30m9s804ms).
+2024-07-11 17:00:16 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=15m26s721ms).
+2024-07-11 17:38:02 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=37m45s575ms).
+2024-07-11 18:02:16 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=24m14s90ms).
+2024-07-11 18:21:24 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=19m8s404ms).
+2024-07-11 18:37:08 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=15m43s663ms).
+2024-07-11 18:53:04 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=15m55s786ms).
+2024-07-11 19:21:28 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=28m24s359ms).
+2024-07-11 20:42:55 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h21m26s888ms).
+2024-07-11 21:15:16 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=32m21s104ms).
+2024-07-11 21:18:56 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2m9s350ms).
+2024-07-11 22:00:19 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=41m23s61ms).
+2024-07-11 22:08:10 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=7m51s92ms).
+2024-07-11 22:46:10 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=37m30s118ms).
+2024-07-11 23:11:11 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=25m808ms).
+2024-07-11 23:24:01 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=12m50s11ms).
+2024-07-11 23:32:45 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=8m43s897ms).
+2024-07-11 23:58:43 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=25m58s433ms).
+2024-07-12 00:03:23 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=4m39s774ms).
+2024-07-12 00:16:04 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=12m41s606ms).
+2024-07-12 00:18:30 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2m26s96ms).
+2024-07-12 00:40:59 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=22m28s539ms).
+2024-07-12 01:18:17 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=37m18s265ms).
+2024-07-12 01:30:47 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=11m29s277ms).
+2024-07-12 01:41:56 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=11m9s723ms).
+2024-07-12 02:06:57 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=25m552ms).
+2024-07-12 02:35:14 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=28m17s202ms).
+2024-07-12 03:00:36 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=25m22s216ms).
+2024-07-12 03:20:40 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=20m4s57ms).
+2024-07-12 03:37:03 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=16m23s123ms).
+2024-07-12 04:20:12 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=43m8s426ms).
+2024-07-12 04:42:07 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=21m55s141ms).
+2024-07-12 05:02:18 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=20m11s57ms).
+2024-07-12 05:44:58 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=42m39s973ms).
+2024-07-12 06:36:26 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=51m27s608ms).
+2024-07-12 06:55:55 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=19m29s69ms).
+2024-07-12 07:39:43 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=43m48s65ms).
+2024-07-12 07:47:03 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=7m19s764ms).
+2024-07-12 08:16:45 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=29m42s942ms).
+2024-07-12 08:35:01 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=18m15s513ms).
+2024-07-12 09:00:30 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=25m29s433ms).
+2024-07-12 09:33:23 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=32m52s89ms).
+2024-07-12 09:46:52 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=13m29s444ms).
+2024-07-12 09:54:31 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=7m39s203ms).
+2024-07-12 10:06:39 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=12m7s583ms).
+2024-07-12 10:13:11 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=6m32s275ms).
+2024-07-12 10:45:09 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=31m58s415ms).
+2024-07-12 11:02:56 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=17m46s477ms).
+2024-07-12 11:28:10 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=25m13s775ms).
+2024-07-12 11:29:55 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m45s744ms).
+2024-07-12 11:57:46 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=27m50s327ms).
+2024-07-12 12:07:08 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m22s376ms).
+2024-07-12 12:08:14 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m6s80ms).
+2024-07-12 12:32:29 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=24m14s870ms).
+2024-07-12 12:35:41 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=3m12s298ms).
+2024-07-12 12:53:08 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=17m26s550ms).
+2024-07-12 13:01:13 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=8m4s947ms).
+2024-07-12 13:04:32 HikariPool-1 - Shutdown initiated...
+2024-07-12 13:04:34 HikariPool-1 - Shutdown completed.
+2024-07-13 07:44:02 Starting ManagerApplication using Java 17.0.11 with PID 54430 (/Users/jingjingpan/Desktop/2024project/spzx-parent/spzx-manager/target/classes started by jingjingpan in /Users/jingjingpan/Desktop/2024project/spzx-parent)
+2024-07-13 07:44:02 The following 1 profile is active: "dev"
+2024-07-13 07:44:02 Multiple Spring Data modules found, entering strict repository configuration mode
+2024-07-13 07:44:02 Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-07-13 07:44:02 Finished Spring Data repository scanning in 3 ms. Found 0 Redis repository interfaces.
+2024-07-13 07:44:02 Tomcat initialized with port(s): 8501 (http)
+2024-07-13 07:44:02 Initializing ProtocolHandler ["http-nio-8501"]
+2024-07-13 07:44:02 Starting service [Tomcat]
+2024-07-13 07:44:02 Starting Servlet engine: [Apache Tomcat/10.1.7]
+2024-07-13 07:44:02 Initializing Spring embedded WebApplicationContext
+2024-07-13 07:44:02 Root WebApplicationContext: initialization completed in 566 ms
+2024-07-13 07:44:03 Starting ProtocolHandler ["http-nio-8501"]
+2024-07-13 07:44:03 Tomcat started on port(s): 8501 (http) with context path ''
+2024-07-13 07:44:03 Started ManagerApplication in 1.548 seconds (process running for 1.888)
+2024-07-13 08:00:09 Starting ManagerApplication using Java 17.0.11 with PID 54692 (/Users/jingjingpan/Desktop/2024project/spzx-parent/spzx-manager/target/classes started by jingjingpan in /Users/jingjingpan/Desktop/2024project/spzx-parent)
+2024-07-13 08:00:09 The following 1 profile is active: "dev"
+2024-07-13 08:00:10 Multiple Spring Data modules found, entering strict repository configuration mode
+2024-07-13 08:00:10 Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-07-13 08:00:10 Finished Spring Data repository scanning in 6 ms. Found 0 Redis repository interfaces.
+2024-07-13 08:00:10 Tomcat initialized with port(s): 8501 (http)
+2024-07-13 08:00:10 Initializing ProtocolHandler ["http-nio-8501"]
+2024-07-13 08:00:10 Starting service [Tomcat]
+2024-07-13 08:00:10 Starting Servlet engine: [Apache Tomcat/10.1.7]
+2024-07-13 08:00:10 Initializing Spring embedded WebApplicationContext
+2024-07-13 08:00:10 Root WebApplicationContext: initialization completed in 542 ms
+2024-07-13 08:00:11 Starting ProtocolHandler ["http-nio-8501"]
+2024-07-13 08:00:11 Tomcat started on port(s): 8501 (http) with context path ''
+2024-07-13 08:00:11 Started ManagerApplication in 1.424 seconds (process running for 1.83)
+2024-07-13 08:10:50 Starting ManagerApplication using Java 17.0.11 with PID 54966 (/Users/jingjingpan/Desktop/2024project/spzx-parent/spzx-manager/target/classes started by jingjingpan in /Users/jingjingpan/Desktop/2024project/spzx-parent)
+2024-07-13 08:10:50 The following 1 profile is active: "dev"
+2024-07-13 08:10:50 Multiple Spring Data modules found, entering strict repository configuration mode
+2024-07-13 08:10:50 Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-07-13 08:10:50 Finished Spring Data repository scanning in 3 ms. Found 0 Redis repository interfaces.
+2024-07-13 08:10:50 Tomcat initialized with port(s): 8501 (http)
+2024-07-13 08:10:50 Initializing ProtocolHandler ["http-nio-8501"]
+2024-07-13 08:10:50 Starting service [Tomcat]
+2024-07-13 08:10:50 Starting Servlet engine: [Apache Tomcat/10.1.7]
+2024-07-13 08:10:50 Initializing Spring embedded WebApplicationContext
+2024-07-13 08:10:50 Root WebApplicationContext: initialization completed in 549 ms
+2024-07-13 08:10:51 Starting ProtocolHandler ["http-nio-8501"]
+2024-07-13 08:10:51 Tomcat started on port(s): 8501 (http) with context path ''
+2024-07-13 08:10:51 Started ManagerApplication in 1.435 seconds (process running for 1.999)
+2024-07-13 08:12:30 Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-07-13 08:12:30 Initializing Servlet 'dispatcherServlet'
+2024-07-13 08:12:30 Completed initialization in 4 ms
+2024-07-13 08:12:37 HikariPool-1 - Starting...
+2024-07-13 08:12:37 HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@3e153555
+2024-07-13 08:12:37 HikariPool-1 - Start completed.
+2024-07-13 08:17:27 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=3m19s578ms).
+2024-07-13 08:19:02 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m34s997ms).
+2024-07-13 08:41:54 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=22m52s902ms).
+2024-07-13 08:50:56 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m1s477ms).
+2024-07-13 08:52:19 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m22s606ms).
+2024-07-13 08:54:33 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2m14s309ms).
+2024-07-13 08:59:03 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=4m29s813ms).
+2024-07-13 09:04:41 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m38s822ms).
+2024-07-13 09:08:38 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=3m56s645ms).
+2024-07-13 09:18:45 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=10m6s524ms).
+2024-07-13 09:49:04 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=28m49s484ms).
+2024-07-13 10:07:09 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=18m4s895ms).
+2024-07-13 10:09:41 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2m31s681ms).
+2024-07-13 10:30:03 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=20m22s159ms).
+2024-07-13 11:03:25 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=33m21s966ms).
+2024-07-13 11:51:14 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=47m49s71ms).
+2024-07-13 12:26:36 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=35m22s59ms).
+2024-07-13 12:48:45 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=22m9s466ms).
+2024-07-13 13:21:05 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=32m19s174ms).
+2024-07-13 13:48:02 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=26m57s463ms).
+2024-07-13 14:18:23 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=30m21s93ms).
+2024-07-13 14:38:27 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=20m4s306ms).
+2024-07-13 14:55:20 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=16m52s590ms).
+2024-07-13 15:19:55 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=24m34s513ms).
+2024-07-13 15:55:23 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=35m28s670ms).
+2024-07-13 16:02:31 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=7m7s848ms).
+2024-07-13 16:26:09 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=23m37s627ms).
+2024-07-13 17:08:20 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=42m11s269ms).
+2024-07-13 17:44:36 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=36m15s978ms).
+2024-07-13 18:11:13 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=26m37s225ms).
+2024-07-13 18:41:17 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=30m3s613ms).
+2024-07-13 19:10:15 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=28m58s436ms).
+2024-07-13 19:18:30 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=8m14s557ms).
+2024-07-13 19:21:43 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2m29s841ms).
+2024-07-13 19:53:50 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=32m7s502ms).
+2024-07-13 19:58:49 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=4m59s189ms).
+2024-07-13 20:00:23 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=52s189ms).
+2024-07-13 20:02:38 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2m14s135ms).
+2024-07-13 20:37:08 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=34m30s139ms).
+2024-07-13 20:55:55 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=18m47s642ms).
+2024-07-13 21:20:06 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=24m10s751ms).
+2024-07-13 21:38:38 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=18m31s346ms).
+2024-07-13 21:39:46 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m8s928ms).
+2024-07-13 21:50:50 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=11m3s241ms).
+2024-07-13 21:59:34 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=8m43s952ms).
+2024-07-13 22:00:25 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=51s272ms).
+2024-07-13 22:03:39 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=3m14s26ms).
+2024-07-13 22:38:34 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=34m54s977ms).
+2024-07-13 22:40:45 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2m11s463ms).
+2024-07-13 23:01:02 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=20m16s702ms).
+2024-07-13 23:06:45 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m5s525ms).
+2024-07-13 23:41:06 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=34m20s551ms).
+2024-07-14 00:05:33 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=24m26s752ms).
+2024-07-14 00:22:05 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=16m32s604ms).
+2024-07-14 00:55:57 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=33m51s762ms).
+2024-07-14 01:21:21 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=25m24s142ms).
+2024-07-14 01:56:21 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=34m59s541ms).
+2024-07-14 02:22:07 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=25m46s438ms).
+2024-07-14 02:59:35 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=37m27s816ms).
+2024-07-14 03:20:06 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=20m31s376ms).
+2024-07-14 03:38:56 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=18m49s418ms).
+2024-07-14 04:00:30 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=21m34s508ms).
+2024-07-14 04:14:32 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=14m1s779ms).
+2024-07-14 04:23:56 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m24s423ms).
+2024-07-14 04:52:36 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=28m39s420ms).
+2024-07-14 05:14:44 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=22m8s207ms).
+2024-07-14 05:42:50 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=28m5s870ms).
+2024-07-14 06:05:48 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=22m58s186ms).
+2024-07-14 06:41:52 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=36m4s338ms).
+2024-07-14 07:06:45 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=24m52s944ms).
+2024-07-14 07:28:34 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=21m49s98ms).
+2024-07-14 08:01:18 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=32m43s910ms).
+2024-07-14 08:07:56 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=6m37s745ms).
+2024-07-14 08:19:55 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=11m58s496ms).
+2024-07-14 08:21:01 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m6s389ms).
+2024-07-14 08:29:50 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=8m5s83ms).
+2024-07-14 08:35:54 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=6m4s291ms).
+2024-07-14 08:36:54 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=59s661ms).
+2024-07-14 08:38:02 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m7s917ms).
+2024-07-14 08:46:43 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=8m40s900ms).
+2024-07-14 08:51:15 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=4m32s69ms).
+2024-07-14 08:59:14 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=7m58s868ms).
+2024-07-14 09:04:44 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m30s713ms).
+2024-07-14 09:12:07 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=7m22s508ms).
+2024-07-14 09:13:05 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=57s670ms).
+2024-07-14 10:03:41 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=48m36s267ms).
+2024-07-14 10:16:36 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=10m55s450ms).
+2024-07-14 10:24:49 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=8m12s470ms).
+2024-07-14 10:34:20 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m31s554ms).
+2024-07-14 10:36:29 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2m8s919ms).
+2024-07-14 10:38:12 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m43s167ms).
+2024-07-14 10:57:39 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=19m26s584ms).
+2024-07-14 11:24:45 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=27m5s946ms).
+2024-07-14 11:47:53 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=23m7s681ms).
+2024-07-14 12:31:18 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=43m25s715ms).
+2024-07-14 12:52:01 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=20m42s715ms).
+2024-07-14 13:00:54 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=8m53s498ms).
+2024-07-14 13:04:13 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=3m18s795ms).
+2024-07-14 13:13:31 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m18s108ms).
+2024-07-14 13:24:47 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=11m16s119ms).
+2024-07-14 13:29:43 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=4m55s213ms).
+2024-07-14 13:52:02 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=22m18s970ms).
+2024-07-14 14:01:44 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m42s426ms).
+2024-07-14 14:04:41 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2m56s664ms).
+2024-07-14 14:33:00 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=28m19s629ms).
+2024-07-14 14:35:50 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2m50s29ms).
+2024-07-14 14:45:53 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=10m2s236ms).
+2024-07-14 14:48:01 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2m8s325ms).
+2024-07-14 15:40:03 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=52m2s507ms).
+2024-07-14 15:59:29 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=15m55s728ms).
+2024-07-14 16:50:08 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=50m8s575ms).
+2024-07-14 16:58:03 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=7m25s249ms).
+2024-07-14 17:15:39 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=17m36s361ms).
+2024-07-14 17:33:06 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=17m26s216ms).
+2024-07-14 17:34:53 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m47s281ms).
+2024-07-14 17:39:09 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=4m16s476ms).
+2024-07-14 17:41:12 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2m2s814ms).
+2024-07-14 17:58:55 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=17m43s137ms).
+2024-07-14 18:11:53 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=12m58s93ms).
+2024-07-14 18:14:55 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=3m2s103ms).
+2024-07-14 18:16:50 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m54s566ms).
+2024-07-14 18:56:18 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=39m27s443ms).
+2024-07-14 19:18:07 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=21m49s171ms).
+2024-07-14 19:36:01 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=17m53s943ms).
+2024-07-14 19:39:37 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=3m36s607ms).
+2024-07-14 20:14:36 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=34m58s848ms).
+2024-07-14 20:33:10 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=18m34s91ms).
+2024-07-14 21:07:21 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=34m11s173ms).
+2024-07-14 22:30:53 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h23m31s212ms).
+2024-07-15 00:09:51 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h38m58s444ms).
+2024-07-15 01:20:59 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h11m8s488ms).
+2024-07-15 02:41:55 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h20m55s764ms).
+2024-07-15 04:03:48 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h21m53s167ms).
+2024-07-15 05:45:28 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h41m39s681ms).
+2024-07-15 07:20:10 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h34m41s800ms).
+2024-07-15 08:11:46 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=51m35s644ms).
+2024-07-15 08:22:05 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m49s322ms).
+2024-07-15 08:24:48 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2m43s607ms).
+2024-07-15 08:46:41 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=21m52s55ms).
+2024-07-15 08:56:51 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=10m10s875ms).
+2024-07-15 09:03:48 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=6m56s930ms).
+2024-07-15 09:20:03 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=16m14s230ms).
+2024-07-15 09:47:38 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=27m35s354ms).
+2024-07-15 09:49:26 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m48s350ms).
+2024-07-15 10:37:10 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=47m44s95ms).
+2024-07-15 11:16:13 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=39m2s851ms).
+2024-07-15 11:27:40 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=11m27s117ms).
+2024-07-15 12:12:33 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=44m52s302ms).
+2024-07-15 12:28:45 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=16m12s698ms).
+2024-07-15 12:48:02 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=19m17s82ms).
+2024-07-15 13:11:36 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=23m33s276ms).
+2024-07-15 13:39:58 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=28m22s807ms).
+2024-07-15 13:59:13 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=19m14s489ms).
+2024-07-15 14:07:48 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=8m35s2ms).
+2024-07-15 14:22:00 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=14m11s844ms).
+2024-07-15 14:48:24 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=26m24s167ms).
+2024-07-15 15:06:31 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=18m6s857ms).
+2024-07-15 15:12:37 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=6m5s750ms).
+2024-07-15 15:28:24 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=15m47s613ms).
+2024-07-15 15:37:54 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m30s1ms).
+2024-07-15 15:38:50 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=55s837ms).
+2024-07-15 15:42:11 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=3m20s449ms).
+2024-07-15 16:16:00 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=33m49s553ms).
+2024-07-15 16:51:16 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=35m16s201ms).
+2024-07-15 17:08:54 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=17m37s641ms).
+2024-07-15 17:29:04 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=20m10s599ms).
+2024-07-15 18:06:17 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=37m12s429ms).
+2024-07-15 18:27:09 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=20m51s870ms).
+2024-07-15 19:00:12 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=33m3s193ms).
+2024-07-15 19:20:01 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=19m48s959ms).
+2024-07-15 19:56:12 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=36m10s582ms).
+2024-07-15 20:34:23 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=38m11s207ms).
+2024-07-15 20:56:47 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=22m24s677ms).
+2024-07-15 21:05:58 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m10s650ms).
+2024-07-15 21:30:26 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=24m27s472ms).
+2024-07-15 21:40:09 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m43s765ms).
+2024-07-15 21:59:21 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=19m12s110ms).
+2024-07-15 22:20:08 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=20m46s761ms).
+2024-07-15 22:41:18 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=21m9s586ms).
+2024-07-15 23:08:02 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=26m44s320ms).
+2024-07-15 23:35:50 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=27m48s38ms).
+2024-07-16 00:00:31 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=24m40s790ms).
+2024-07-16 00:18:07 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=17m36s526ms).
+2024-07-16 00:43:13 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=25m5s930ms).
+2024-07-16 01:18:53 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=35m39s861ms).
+2024-07-16 01:42:08 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=22m14s644ms).
+2024-07-16 02:02:56 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=20m47s951ms).
+2024-07-16 02:38:48 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=35m52s92ms).
+2024-07-16 02:45:34 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=6m46s110ms).
+2024-07-16 03:20:30 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=34m26s376ms).
+2024-07-16 03:46:09 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=25m38s171ms).
+2024-07-16 04:22:23 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=36m14s100ms).
+2024-07-16 05:02:40 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=40m17s226ms).
+2024-07-16 05:22:43 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=20m3s164ms).
+2024-07-16 06:05:01 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=42m18s126ms).
+2024-07-16 06:43:03 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=38m1s559ms).
+2024-07-16 07:07:10 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=24m7s418ms).
+2024-07-16 07:24:56 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=17m46s161ms).
+2024-07-16 07:27:10 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2m14s164ms).
+2024-07-16 07:29:34 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2m23s910ms).
+2024-07-16 07:31:01 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m26s192ms).
+2024-07-16 07:36:53 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m52s504ms).
+2024-07-16 07:49:12 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=12m18s826ms).
+2024-07-16 07:51:45 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2m32s656ms).
+2024-07-16 08:00:06 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=8m21s812ms).
+2024-07-16 08:09:57 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m50s314ms).
+2024-07-16 08:18:21 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=8m24s344ms).
+2024-07-16 08:21:04 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2m43s255ms).
+2024-07-16 08:25:10 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=3m35s287ms).
+2024-07-16 08:43:15 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=18m5s394ms).
+2024-07-16 09:32:37 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=47m52s421ms).
+2024-07-16 09:36:08 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=3m30s444ms).
+2024-07-16 09:36:13 HikariPool-1 - Shutdown initiated...
+2024-07-16 09:36:13 HikariPool-1 - Shutdown completed.
+2024-07-22 12:40:36 Starting ManagerApplication using Java 17.0.11 with PID 22244 (/Users/jingjingpan/Desktop/2024project/spzx-parent/spzx-manager/target/classes started by jingjingpan in /Users/jingjingpan/Desktop/2024project/spzx-parent)
+2024-07-22 12:40:36 The following 1 profile is active: "dev"
+2024-07-22 12:40:37 Multiple Spring Data modules found, entering strict repository configuration mode
+2024-07-22 12:40:37 Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-07-22 12:40:37 Finished Spring Data repository scanning in 3 ms. Found 0 Redis repository interfaces.
+2024-07-22 12:40:37 Tomcat initialized with port(s): 8501 (http)
+2024-07-22 12:40:37 Initializing ProtocolHandler ["http-nio-8501"]
+2024-07-22 12:40:37 Starting service [Tomcat]
+2024-07-22 12:40:37 Starting Servlet engine: [Apache Tomcat/10.1.7]
+2024-07-22 12:40:37 Initializing Spring embedded WebApplicationContext
+2024-07-22 12:40:37 Root WebApplicationContext: initialization completed in 566 ms
+2024-07-22 12:40:38 Starting ProtocolHandler ["http-nio-8501"]
+2024-07-22 12:40:38 Tomcat started on port(s): 8501 (http) with context path ''
+2024-07-22 12:40:38 Started ManagerApplication in 1.617 seconds (process running for 1.985)
+2024-07-22 20:53:46 Starting ManagerApplication using Java 17.0.11 with PID 25103 (/Users/jingjingpan/Desktop/2024project/spzx-parent/spzx-manager/target/classes started by jingjingpan in /Users/jingjingpan/Desktop/2024project/spzx-parent)
+2024-07-22 20:53:46 The following 1 profile is active: "dev"
+2024-07-22 20:53:46 Multiple Spring Data modules found, entering strict repository configuration mode
+2024-07-22 20:53:46 Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-07-22 20:53:46 Finished Spring Data repository scanning in 3 ms. Found 0 Redis repository interfaces.
+2024-07-22 20:53:46 Tomcat initialized with port(s): 8501 (http)
+2024-07-22 20:53:46 Initializing ProtocolHandler ["http-nio-8501"]
+2024-07-22 20:53:46 Starting service [Tomcat]
+2024-07-22 20:53:46 Starting Servlet engine: [Apache Tomcat/10.1.7]
+2024-07-22 20:53:46 Initializing Spring embedded WebApplicationContext
+2024-07-22 20:53:46 Root WebApplicationContext: initialization completed in 619 ms
+2024-07-22 20:53:47 Starting ProtocolHandler ["http-nio-8501"]
+2024-07-22 20:53:47 Tomcat started on port(s): 8501 (http) with context path ''
+2024-07-22 20:53:47 Started ManagerApplication in 1.573 seconds (process running for 2.099)
+2024-07-22 20:55:07 Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-07-22 20:55:07 Initializing Servlet 'dispatcherServlet'
+2024-07-22 20:55:07 Completed initialization in 1 ms
+2024-07-22 20:55:13 HikariPool-1 - Starting...
+2024-07-22 20:55:14 HikariPool-1 - Exception during pool initialization.
+com.mysql.cj.jdbc.exceptions.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at com.mysql.cj.jdbc.exceptions.SQLError.createCommunicationsException(SQLError.java:174)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:64)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:824)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:444)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:237)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.zaxxer.hikari.util.DriverDataSource.getConnection(DriverDataSource.java:138)
+	at com.zaxxer.hikari.pool.PoolBase.newConnection(PoolBase.java:359)
+	at com.zaxxer.hikari.pool.PoolBase.newPoolEntry(PoolBase.java:201)
+	at com.zaxxer.hikari.pool.HikariPool.createPoolEntry(HikariPool.java:470)
+	at com.zaxxer.hikari.pool.HikariPool.checkFailFast(HikariPool.java:561)
+	at com.zaxxer.hikari.pool.HikariPool.<init>(HikariPool.java:100)
+	at com.zaxxer.hikari.HikariDataSource.getConnection(HikariDataSource.java:112)
+	at org.springframework.jdbc.datasource.DataSourceUtils.fetchConnection(DataSourceUtils.java:159)
+	at org.springframework.jdbc.datasource.DataSourceUtils.doGetConnection(DataSourceUtils.java:117)
+	at org.springframework.jdbc.datasource.DataSourceUtils.getConnection(DataSourceUtils.java:80)
+	at org.mybatis.spring.transaction.SpringManagedTransaction.openConnection(SpringManagedTransaction.java:80)
+	at org.mybatis.spring.transaction.SpringManagedTransaction.getConnection(SpringManagedTransaction.java:67)
+	at org.apache.ibatis.executor.BaseExecutor.getConnection(BaseExecutor.java:337)
+	at org.apache.ibatis.executor.SimpleExecutor.prepareStatement(SimpleExecutor.java:86)
+	at org.apache.ibatis.executor.SimpleExecutor.doQuery(SimpleExecutor.java:62)
+	at org.apache.ibatis.executor.BaseExecutor.queryFromDatabase(BaseExecutor.java:325)
+	at org.apache.ibatis.executor.BaseExecutor.query(BaseExecutor.java:156)
+	at org.apache.ibatis.executor.CachingExecutor.query(CachingExecutor.java:109)
+	at com.github.pagehelper.PageInterceptor.intercept(PageInterceptor.java:132)
+	at org.apache.ibatis.plugin.Plugin.invoke(Plugin.java:62)
+	at jdk.proxy2/jdk.proxy2.$Proxy125.query(Unknown Source)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.selectList(DefaultSqlSession.java:151)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.selectList(DefaultSqlSession.java:145)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.selectList(DefaultSqlSession.java:140)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.selectOne(DefaultSqlSession.java:76)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.mybatis.spring.SqlSessionTemplate$SqlSessionInterceptor.invoke(SqlSessionTemplate.java:425)
+	at jdk.proxy2/jdk.proxy2.$Proxy83.selectOne(Unknown Source)
+	at org.mybatis.spring.SqlSessionTemplate.selectOne(SqlSessionTemplate.java:160)
+	at org.apache.ibatis.binding.MapperMethod.execute(MapperMethod.java:87)
+	at org.apache.ibatis.binding.MapperProxy$PlainMethodInvoker.invoke(MapperProxy.java:145)
+	at org.apache.ibatis.binding.MapperProxy.invoke(MapperProxy.java:86)
+	at jdk.proxy2/jdk.proxy2.$Proxy84.selectUserInfoByUserName(Unknown Source)
+	at com.atguigu.spzx.manager.service.impl.SysUserServiceImpl.login(SysUserServiceImpl.java:68)
+	at com.atguigu.spzx.manager.controller.IndexController.login(IndexController.java:68)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:207)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:152)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:118)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:884)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:797)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1081)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:974)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1011)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:914)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:563)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:631)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:205)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:166)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:493)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:341)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:390)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:894)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1741)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:842)
+Caused by: com.mysql.cj.exceptions.CJCommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:61)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:105)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:151)
+	at com.mysql.cj.exceptions.ExceptionFactory.createCommunicationsException(ExceptionFactory.java:167)
+	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:89)
+	at com.mysql.cj.NativeSession.connect(NativeSession.java:120)
+	at com.mysql.cj.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:944)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:814)
+	... 91 common frames omitted
+Caused by: java.net.SocketException: Can't connect to SOCKS proxy:Connection refused
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:359)
+	at java.base/java.net.Socket.connect(Socket.java:633)
+	at com.mysql.cj.protocol.StandardSocketFactory.connect(StandardSocketFactory.java:153)
+	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:63)
+	... 94 common frames omitted
+2024-07-22 20:55:28 HikariPool-1 - Starting...
+2024-07-22 20:55:29 HikariPool-1 - Exception during pool initialization.
+com.mysql.cj.jdbc.exceptions.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at com.mysql.cj.jdbc.exceptions.SQLError.createCommunicationsException(SQLError.java:174)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:64)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:824)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:444)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:237)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.zaxxer.hikari.util.DriverDataSource.getConnection(DriverDataSource.java:138)
+	at com.zaxxer.hikari.pool.PoolBase.newConnection(PoolBase.java:359)
+	at com.zaxxer.hikari.pool.PoolBase.newPoolEntry(PoolBase.java:201)
+	at com.zaxxer.hikari.pool.HikariPool.createPoolEntry(HikariPool.java:470)
+	at com.zaxxer.hikari.pool.HikariPool.checkFailFast(HikariPool.java:561)
+	at com.zaxxer.hikari.pool.HikariPool.<init>(HikariPool.java:100)
+	at com.zaxxer.hikari.HikariDataSource.getConnection(HikariDataSource.java:112)
+	at org.springframework.jdbc.datasource.DataSourceUtils.fetchConnection(DataSourceUtils.java:159)
+	at org.springframework.jdbc.datasource.DataSourceUtils.doGetConnection(DataSourceUtils.java:117)
+	at org.springframework.jdbc.datasource.DataSourceUtils.getConnection(DataSourceUtils.java:80)
+	at org.mybatis.spring.transaction.SpringManagedTransaction.openConnection(SpringManagedTransaction.java:80)
+	at org.mybatis.spring.transaction.SpringManagedTransaction.getConnection(SpringManagedTransaction.java:67)
+	at org.apache.ibatis.executor.BaseExecutor.getConnection(BaseExecutor.java:337)
+	at org.apache.ibatis.executor.SimpleExecutor.prepareStatement(SimpleExecutor.java:86)
+	at org.apache.ibatis.executor.SimpleExecutor.doQuery(SimpleExecutor.java:62)
+	at org.apache.ibatis.executor.BaseExecutor.queryFromDatabase(BaseExecutor.java:325)
+	at org.apache.ibatis.executor.BaseExecutor.query(BaseExecutor.java:156)
+	at org.apache.ibatis.executor.CachingExecutor.query(CachingExecutor.java:109)
+	at com.github.pagehelper.PageInterceptor.intercept(PageInterceptor.java:132)
+	at org.apache.ibatis.plugin.Plugin.invoke(Plugin.java:62)
+	at jdk.proxy2/jdk.proxy2.$Proxy125.query(Unknown Source)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.selectList(DefaultSqlSession.java:151)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.selectList(DefaultSqlSession.java:145)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.selectList(DefaultSqlSession.java:140)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.selectOne(DefaultSqlSession.java:76)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.mybatis.spring.SqlSessionTemplate$SqlSessionInterceptor.invoke(SqlSessionTemplate.java:425)
+	at jdk.proxy2/jdk.proxy2.$Proxy83.selectOne(Unknown Source)
+	at org.mybatis.spring.SqlSessionTemplate.selectOne(SqlSessionTemplate.java:160)
+	at org.apache.ibatis.binding.MapperMethod.execute(MapperMethod.java:87)
+	at org.apache.ibatis.binding.MapperProxy$PlainMethodInvoker.invoke(MapperProxy.java:145)
+	at org.apache.ibatis.binding.MapperProxy.invoke(MapperProxy.java:86)
+	at jdk.proxy2/jdk.proxy2.$Proxy84.selectUserInfoByUserName(Unknown Source)
+	at com.atguigu.spzx.manager.service.impl.SysUserServiceImpl.login(SysUserServiceImpl.java:68)
+	at com.atguigu.spzx.manager.controller.IndexController.login(IndexController.java:68)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:207)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:152)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:118)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:884)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:797)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1081)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:974)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1011)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:914)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:563)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:631)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:205)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:166)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:493)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:341)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:390)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:894)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1741)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:842)
+Caused by: com.mysql.cj.exceptions.CJCommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:61)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:105)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:151)
+	at com.mysql.cj.exceptions.ExceptionFactory.createCommunicationsException(ExceptionFactory.java:167)
+	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:89)
+	at com.mysql.cj.NativeSession.connect(NativeSession.java:120)
+	at com.mysql.cj.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:944)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:814)
+	... 91 common frames omitted
+Caused by: java.net.SocketException: Can't connect to SOCKS proxy:Connection refused
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:359)
+	at java.base/java.net.Socket.connect(Socket.java:633)
+	at com.mysql.cj.protocol.StandardSocketFactory.connect(StandardSocketFactory.java:153)
+	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:63)
+	... 94 common frames omitted
+2024-07-22 20:57:24 Starting ManagerApplication using Java 17.0.11 with PID 25243 (/Users/jingjingpan/Desktop/2024project/spzx-parent/spzx-manager/target/classes started by jingjingpan in /Users/jingjingpan/Desktop/2024project/spzx-parent)
+2024-07-22 20:57:24 The following 1 profile is active: "dev"
+2024-07-22 20:57:25 Multiple Spring Data modules found, entering strict repository configuration mode
+2024-07-22 20:57:25 Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-07-22 20:57:25 Finished Spring Data repository scanning in 3 ms. Found 0 Redis repository interfaces.
+2024-07-22 20:57:25 Tomcat initialized with port(s): 8501 (http)
+2024-07-22 20:57:25 Initializing ProtocolHandler ["http-nio-8501"]
+2024-07-22 20:57:25 Starting service [Tomcat]
+2024-07-22 20:57:25 Starting Servlet engine: [Apache Tomcat/10.1.7]
+2024-07-22 20:57:25 Initializing Spring embedded WebApplicationContext
+2024-07-22 20:57:25 Root WebApplicationContext: initialization completed in 565 ms
+2024-07-22 20:57:26 Starting ProtocolHandler ["http-nio-8501"]
+2024-07-22 20:57:26 Tomcat started on port(s): 8501 (http) with context path ''
+2024-07-22 20:57:26 Started ManagerApplication in 1.584 seconds (process running for 2.052)
+2024-07-22 20:57:53 Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-07-22 20:57:53 Initializing Servlet 'dispatcherServlet'
+2024-07-22 20:57:53 Completed initialization in 0 ms
+2024-07-22 20:58:12 HikariPool-1 - Starting...
+2024-07-22 20:58:12 HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@531702f4
+2024-07-22 20:58:12 HikariPool-1 - Start completed.
+2024-07-22 21:03:27 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2m45s481ms).
+2024-07-22 21:30:55 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=27m27s105ms).
+2024-07-22 21:33:23 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2m28s523ms).
+2024-07-22 21:48:21 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=13m57s836ms).
+2024-07-22 22:19:37 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=31m15s668ms).
+2024-07-22 22:33:26 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=49s115ms).
+2024-07-22 23:11:33 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=37m7s186ms).
+2024-07-22 23:41:33 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=29m59s923ms).
+2024-07-23 00:14:33 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=32m59s738ms).
+2024-07-23 00:50:26 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=35m53s484ms).
+2024-07-23 01:13:38 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=23m12s264ms).
+2024-07-23 01:51:53 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=38m14s579ms).
+2024-07-23 02:16:56 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=25m3s300ms).
+2024-07-23 02:59:53 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=42m56s327ms).
+2024-07-23 03:35:06 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=35m13s569ms).
+2024-07-23 04:18:06 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=42m59s840ms).
+2024-07-23 04:51:10 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=33m4s313ms).
+2024-07-23 05:02:58 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=11m47s593ms).
+2024-07-23 07:26:28 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2h23m30s100ms).
+2024-07-23 08:22:37 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=56m8s584ms).
+2024-07-23 08:40:27 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=17m50s451ms).
+2024-07-23 09:00:11 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=19m44s64ms).
+2024-07-23 09:06:17 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=6m6s183ms).
+2024-07-23 09:11:14 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=4m57s245ms).
+2024-07-23 09:19:49 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=7m4s441ms).
+2024-07-23 09:21:27 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m38s290ms).
+2024-07-23 09:46:37 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=25m10s95ms).
+2024-07-23 10:11:15 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=24m37s523ms).
+2024-07-23 10:31:42 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=20m27s291ms).
+2024-07-23 10:50:05 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=18m22s554ms).
+2024-07-23 11:23:11 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=33m6s1ms).
+2024-07-23 12:05:14 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=42m3s727ms).
+2024-07-23 12:35:34 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=30m19s853ms).
+2024-07-23 13:15:58 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=40m23s343ms).
+2024-07-23 13:56:38 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=40m40s106ms).
+2024-07-23 14:13:22 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=16m44s538ms).
+2024-07-23 14:52:18 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=38m55s886ms).
+2024-07-23 15:29:34 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=37m15s805ms).
+2024-07-23 16:07:05 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=37m31s161ms).
+2024-07-23 16:42:24 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=35m18s570ms).
+2024-07-23 17:22:05 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=39m41s614ms).
+2024-07-23 17:58:25 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=36m19s904ms).
+2024-07-23 18:33:35 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=35m9s792ms).
+2024-07-23 19:10:39 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=37m4s15ms).
+2024-07-23 19:48:05 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=37m25s854ms).
+2024-07-23 20:24:45 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=36m40s89ms).
+2024-07-23 20:36:30 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=11m44s646ms).
+2024-07-23 20:38:38 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2m7s954ms).
+2024-07-23 21:02:41 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=24m3s517ms).
+2024-07-23 21:28:05 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=25m24s126ms).
+2024-07-23 21:28:19 HikariPool-1 - Shutdown initiated...
+2024-07-23 21:28:19 HikariPool-1 - Shutdown completed.
+2024-07-24 22:09:28 Starting ManagerApplication using Java 17.0.11 with PID 27173 (/Users/jingjingpan/Desktop/2024project/spzx-parent/spzx-manager/target/classes started by jingjingpan in /Users/jingjingpan/Desktop/2024project/spzx-parent)
+2024-07-24 22:09:28 The following 1 profile is active: "dev"
+2024-07-24 22:09:29 Multiple Spring Data modules found, entering strict repository configuration mode
+2024-07-24 22:09:29 Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-07-24 22:09:29 Finished Spring Data repository scanning in 3 ms. Found 0 Redis repository interfaces.
+2024-07-24 22:09:29 Tomcat initialized with port(s): 8501 (http)
+2024-07-24 22:09:29 Initializing ProtocolHandler ["http-nio-8501"]
+2024-07-24 22:09:29 Starting service [Tomcat]
+2024-07-24 22:09:29 Starting Servlet engine: [Apache Tomcat/10.1.7]
+2024-07-24 22:09:29 Initializing Spring embedded WebApplicationContext
+2024-07-24 22:09:29 Root WebApplicationContext: initialization completed in 562 ms
+2024-07-24 22:09:30 Starting ProtocolHandler ["http-nio-8501"]
+2024-07-24 22:09:30 Tomcat started on port(s): 8501 (http) with context path ''
+2024-07-24 22:09:30 Started ManagerApplication in 1.467 seconds (process running for 1.886)
+2024-07-24 22:34:59 Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-07-24 22:34:59 Initializing Servlet 'dispatcherServlet'
+2024-07-24 22:34:59 Completed initialization in 2 ms
+2024-07-24 22:35:04 HikariPool-1 - Starting...
+2024-07-24 22:35:04 HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@67f5667f
+2024-07-24 22:35:04 HikariPool-1 - Start completed.
+2024-07-24 22:49:44 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m39s966ms).
+2024-07-24 23:19:31 HikariPool-1 - Shutdown initiated...
+2024-07-24 23:19:31 HikariPool-1 - Shutdown completed.
+2024-07-24 23:19:39 Starting ManagerApplication using Java 17.0.11 with PID 28678 (/Users/jingjingpan/Desktop/2024project/spzx-parent/spzx-manager/target/classes started by jingjingpan in /Users/jingjingpan/Desktop/2024project/spzx-parent)
+2024-07-24 23:19:39 The following 1 profile is active: "dev"
+2024-07-24 23:19:39 Multiple Spring Data modules found, entering strict repository configuration mode
+2024-07-24 23:19:39 Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-07-24 23:19:39 Finished Spring Data repository scanning in 3 ms. Found 0 Redis repository interfaces.
+2024-07-24 23:19:39 Tomcat initialized with port(s): 8501 (http)
+2024-07-24 23:19:39 Initializing ProtocolHandler ["http-nio-8501"]
+2024-07-24 23:19:39 Starting service [Tomcat]
+2024-07-24 23:19:39 Starting Servlet engine: [Apache Tomcat/10.1.7]
+2024-07-24 23:19:39 Initializing Spring embedded WebApplicationContext
+2024-07-24 23:19:39 Root WebApplicationContext: initialization completed in 554 ms
+2024-07-24 23:19:40 Starting ProtocolHandler ["http-nio-8501"]
+2024-07-24 23:19:40 Tomcat started on port(s): 8501 (http) with context path ''
+2024-07-24 23:19:40 Started ManagerApplication in 1.491 seconds (process running for 1.842)
+2024-07-24 23:28:39 Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-07-24 23:28:39 Initializing Servlet 'dispatcherServlet'
+2024-07-24 23:28:39 Completed initialization in 3 ms
+2024-07-24 23:28:48 HikariPool-1 - Starting...
+2024-07-24 23:28:49 HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@ed23629
+2024-07-24 23:28:49 HikariPool-1 - Start completed.
+2024-07-24 23:35:05 HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@ed23629 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-07-24 23:35:05 HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@2312a784 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-07-24 23:35:05 HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@57fde892 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-07-24 23:35:05 HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@47e29860 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-07-24 23:35:05 HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@51cb8eb4 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-07-24 23:35:05 HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@67533d8e (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-07-24 23:35:05 HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@5f52f08e (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-07-24 23:35:05 HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@ca0529c (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-07-24 23:35:05 HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@193c392 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-07-24 23:35:05 HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@7fd22163 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-07-24 23:36:44 HikariPool-1 - Shutdown initiated...
+2024-07-24 23:36:44 HikariPool-1 - Shutdown completed.

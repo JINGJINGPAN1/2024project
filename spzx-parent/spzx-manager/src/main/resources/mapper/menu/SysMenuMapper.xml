@@ -23,7 +23,6 @@
     where id = #{id}
     </update>
 
-
     <!--    //修改-->
     <update id="update" >
         update sys_menu set
@@ -74,6 +73,14 @@
         order by sort_value
     </select>
 
+    <!--    //查询用户可以操作的菜单-->
+    <select id="findMenusByUserId" resultMap="sysMenuMap">
+        select distinct m.*
+        from sys_menu m
+                 INNER JOIN sys_role_menu srm on m.id = srm.menu_id
+                 INNER JOIN sys_user_role sur on srm.role_id = sur.role_id
+        where sur.user_id = #{userId} and m.is_deleted = 0
+    </select>
 
 
 </mapper>

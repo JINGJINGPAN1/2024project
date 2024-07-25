@@ -1,10 +1,8 @@
 package com.atguigu.spzx.manager.controller;
 
-import com.atguigu.spzx.manager.service.SysRoleService;
 import com.atguigu.spzx.manager.service.SysUserService;
-import com.atguigu.spzx.model.dto.system.AssginRoleDto;
+import com.atguigu.spzx.model.dto.system.AssignRoleDto;
 import com.atguigu.spzx.model.dto.system.SysUserDto;
-import com.atguigu.spzx.model.entity.system.SysRole;
 import com.atguigu.spzx.model.entity.system.SysUser;
 import com.atguigu.spzx.model.vo.common.Result;
 import com.atguigu.spzx.model.vo.common.ResultCodeEnum;
@@ -54,8 +52,8 @@ public class SysUserController {
     //用户分配角色
     //保存分配数据
     @PostMapping("/doAssign")
-    public Result doAssign(@RequestBody AssginRoleDto assginRoleDto){
-        sysUserService.doAssign(assginRoleDto);
+    public Result doAssign(@RequestBody AssignRoleDto assignRoleDto){
+        sysUserService.doAssign(assignRoleDto);
         return Result.build(null, ResultCodeEnum.SUCCESS);
     }
 

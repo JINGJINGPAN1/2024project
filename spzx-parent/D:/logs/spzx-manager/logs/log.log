@@ -1011,3 +1011,197 @@ Caused by: java.net.SocketException: Can't connect to SOCKS proxy:Connection ref
 2024-07-24 23:35:05 HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@7fd22163 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
 2024-07-24 23:36:44 HikariPool-1 - Shutdown initiated...
 2024-07-24 23:36:44 HikariPool-1 - Shutdown completed.
+2024-07-25 10:19:36 Starting ManagerApplication using Java 17.0.11 with PID 29596 (/Users/jingjingpan/Desktop/2024project/spzx-parent/spzx-manager/target/classes started by jingjingpan in /Users/jingjingpan/Desktop/2024project/spzx-parent)
+2024-07-25 10:19:36 The following 1 profile is active: "dev"
+2024-07-25 10:19:36 Multiple Spring Data modules found, entering strict repository configuration mode
+2024-07-25 10:19:36 Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-07-25 10:19:36 Finished Spring Data repository scanning in 4 ms. Found 0 Redis repository interfaces.
+2024-07-25 10:19:36 Tomcat initialized with port(s): 8501 (http)
+2024-07-25 10:19:36 Initializing ProtocolHandler ["http-nio-8501"]
+2024-07-25 10:19:36 Starting service [Tomcat]
+2024-07-25 10:19:36 Starting Servlet engine: [Apache Tomcat/10.1.7]
+2024-07-25 10:19:36 Initializing Spring embedded WebApplicationContext
+2024-07-25 10:19:36 Root WebApplicationContext: initialization completed in 584 ms
+2024-07-25 10:19:37 Starting ProtocolHandler ["http-nio-8501"]
+2024-07-25 10:19:37 Tomcat started on port(s): 8501 (http) with context path ''
+2024-07-25 10:19:37 Started ManagerApplication in 1.583 seconds (process running for 1.925)
+2024-07-25 10:19:57 Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-07-25 10:19:57 Initializing Servlet 'dispatcherServlet'
+2024-07-25 10:19:57 Completed initialization in 4 ms
+2024-07-25 10:20:08 HikariPool-1 - Starting...
+2024-07-25 10:20:08 HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@284978b7
+2024-07-25 10:20:08 HikariPool-1 - Start completed.
+2024-07-25 10:28:39 HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@284978b7 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-07-25 10:28:39 HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@14e7c51d (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-07-25 10:28:39 HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@5c756b96 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-07-25 10:28:39 HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@6b10a03f (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-07-25 10:28:39 HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@3d9f75d9 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-07-25 10:28:39 HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@17fa905a (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-07-25 10:28:39 HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@60a470e8 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-07-25 10:28:39 HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@e5b259b (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-07-25 10:28:39 HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@48aca834 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-07-25 10:28:39 HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@b97893b (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-07-25 10:30:45 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2m6s952ms).
+2024-07-25 10:33:35 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m19s932ms).
+2024-07-25 10:46:39 HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@1fd708f9 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-07-25 10:46:39 HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@3c951bcc (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-07-25 10:46:39 HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@60df279a (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-07-25 10:46:39 HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@309f0d45 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-07-25 10:46:39 HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@416e568e (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-07-25 10:46:39 HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@476b926 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-07-25 10:46:39 HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@371f5500 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-07-25 10:46:39 HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@6980cc29 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-07-25 10:46:39 HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@7eda84ce (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-07-25 10:46:39 HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@4f54adba (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-07-25 10:58:34 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=11m58s582ms).
+2024-07-25 11:20:12 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=21m37s852ms).
+2024-07-25 11:43:07 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=22m55s422ms).
+2024-07-25 12:07:01 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=23m54s117ms).
+2024-07-25 12:24:44 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=17m42s985ms).
+2024-07-25 12:54:00 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=29m15s578ms).
+2024-07-25 13:32:15 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=38m14s754ms).
+2024-07-25 13:38:22 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=6m7s92ms).
+2024-07-25 14:32:08 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=3m46s248ms).
+2024-07-25 14:39:22 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=7m14s512ms).
+2024-07-25 14:48:59 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m36s240ms).
+2024-07-25 15:07:38 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=18m39s546ms).
+2024-07-25 15:37:18 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=29m39s603ms).
+2024-07-25 15:39:39 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=51s60ms).
+2024-07-25 16:00:50 HikariPool-1 - Shutdown initiated...
+2024-07-25 16:00:50 HikariPool-1 - Shutdown completed.
+2024-07-25 16:00:57 Starting ManagerApplication using Java 17.0.11 with PID 32898 (/Users/jingjingpan/Desktop/2024project/spzx-parent/spzx-manager/target/classes started by jingjingpan in /Users/jingjingpan/Desktop/2024project/spzx-parent)
+2024-07-25 16:00:57 The following 1 profile is active: "dev"
+2024-07-25 16:00:58 Multiple Spring Data modules found, entering strict repository configuration mode
+2024-07-25 16:00:58 Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-07-25 16:00:58 Finished Spring Data repository scanning in 3 ms. Found 0 Redis repository interfaces.
+2024-07-25 16:00:58 Tomcat initialized with port(s): 8501 (http)
+2024-07-25 16:00:58 Initializing ProtocolHandler ["http-nio-8501"]
+2024-07-25 16:00:58 Starting service [Tomcat]
+2024-07-25 16:00:58 Starting Servlet engine: [Apache Tomcat/10.1.7]
+2024-07-25 16:00:58 Initializing Spring embedded WebApplicationContext
+2024-07-25 16:00:58 Root WebApplicationContext: initialization completed in 544 ms
+2024-07-25 16:00:58 Starting ProtocolHandler ["http-nio-8501"]
+2024-07-25 16:00:58 Tomcat started on port(s): 8501 (http) with context path ''
+2024-07-25 16:00:58 Started ManagerApplication in 1.484 seconds (process running for 1.746)
+2024-07-25 16:19:13 Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-07-25 16:19:13 Initializing Servlet 'dispatcherServlet'
+2024-07-25 16:19:13 Completed initialization in 3 ms
+2024-07-25 16:19:21 HikariPool-1 - Starting...
+2024-07-25 16:19:21 HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@2bae36fd
+2024-07-25 16:19:21 HikariPool-1 - Start completed.
+2024-07-25 16:21:59 HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@2bae36fd (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-07-25 16:21:59 HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@3b86c93b (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-07-25 16:21:59 HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@69af6ef3 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-07-25 16:21:59 HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@392222d4 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-07-25 16:21:59 HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@5fde35a4 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-07-25 16:21:59 HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@521cf075 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-07-25 16:21:59 HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@469701c7 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-07-25 16:21:59 HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@733dde38 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-07-25 16:21:59 HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@5bceb30 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-07-25 16:21:59 HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@3e1ef0ea (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-07-25 16:24:23 HikariPool-1 - Shutdown initiated...
+2024-07-25 16:24:23 HikariPool-1 - Shutdown completed.
+2024-07-25 16:24:26 Starting ManagerApplication using Java 17.0.11 with PID 33061 (/Users/jingjingpan/Desktop/2024project/spzx-parent/spzx-manager/target/classes started by jingjingpan in /Users/jingjingpan/Desktop/2024project/spzx-parent)
+2024-07-25 16:24:26 The following 1 profile is active: "dev"
+2024-07-25 16:24:26 Multiple Spring Data modules found, entering strict repository configuration mode
+2024-07-25 16:24:26 Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-07-25 16:24:26 Finished Spring Data repository scanning in 3 ms. Found 0 Redis repository interfaces.
+2024-07-25 16:24:26 Tomcat initialized with port(s): 8501 (http)
+2024-07-25 16:24:26 Initializing ProtocolHandler ["http-nio-8501"]
+2024-07-25 16:24:26 Starting service [Tomcat]
+2024-07-25 16:24:26 Starting Servlet engine: [Apache Tomcat/10.1.7]
+2024-07-25 16:24:26 Initializing Spring embedded WebApplicationContext
+2024-07-25 16:24:26 Root WebApplicationContext: initialization completed in 534 ms
+2024-07-25 16:24:27 Starting ProtocolHandler ["http-nio-8501"]
+2024-07-25 16:24:27 Tomcat started on port(s): 8501 (http) with context path ''
+2024-07-25 16:24:27 Started ManagerApplication in 1.421 seconds (process running for 1.841)
+2024-07-25 16:24:32 Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-07-25 16:24:32 Initializing Servlet 'dispatcherServlet'
+2024-07-25 16:24:32 Completed initialization in 1 ms
+2024-07-25 16:24:32 HikariPool-1 - Starting...
+2024-07-25 16:24:32 HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@126f479c
+2024-07-25 16:24:32 HikariPool-1 - Start completed.
+2024-07-25 16:30:34 HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@126f479c (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-07-25 16:30:34 HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@b169206 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-07-25 16:30:34 HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@372d4276 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-07-25 16:30:34 HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@60d75a2c (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-07-25 16:30:34 HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@15a78da2 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-07-25 16:30:34 HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@2a9eabb2 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-07-25 16:30:34 HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@777d7265 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-07-25 16:30:34 HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@2da1409c (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-07-25 16:30:34 HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@4420217 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-07-25 16:30:34 HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@5bdeea16 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-07-25 17:10:53 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=40m20s239ms).
+2024-07-25 17:23:24 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=12m31s680ms).
+2024-07-25 17:35:05 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2m40s674ms).
+2024-07-25 17:50:08 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=11m33s294ms).
+2024-07-25 17:56:38 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2m59s397ms).
+2024-07-25 18:21:21 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=24m43s637ms).
+2024-07-25 18:56:14 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=34m52s990ms).
+2024-07-25 19:18:59 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=22m44s714ms).
+2024-07-25 19:54:59 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=35m59s517ms).
+2024-07-25 20:14:02 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=19m2s968ms).
+2024-07-25 20:23:16 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m14s264ms).
+2024-07-25 20:50:51 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=27m35s363ms).
+2024-07-25 20:52:26 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m34s483ms).
+2024-07-25 21:09:30 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=17m3s761ms).
+2024-07-25 21:28:26 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=56s69ms).
+2024-07-25 21:35:50 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=4m54s422ms).
+2024-07-25 21:39:22 HikariPool-1 - Shutdown initiated...
+2024-07-25 21:39:22 HikariPool-1 - Shutdown completed.
+2024-07-25 21:58:14 Starting ManagerApplication using Java 17.0.11 with PID 34186 (/Users/jingjingpan/Desktop/2024project/spzx-parent/spzx-manager/target/classes started by jingjingpan in /Users/jingjingpan/Desktop/2024project/spzx-parent)
+2024-07-25 21:58:14 The following 1 profile is active: "dev"
+2024-07-25 21:58:14 Multiple Spring Data modules found, entering strict repository configuration mode
+2024-07-25 21:58:14 Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-07-25 21:58:14 Finished Spring Data repository scanning in 3 ms. Found 0 Redis repository interfaces.
+2024-07-25 21:58:15 Tomcat initialized with port(s): 8501 (http)
+2024-07-25 21:58:15 Initializing ProtocolHandler ["http-nio-8501"]
+2024-07-25 21:58:15 Starting service [Tomcat]
+2024-07-25 21:58:15 Starting Servlet engine: [Apache Tomcat/10.1.7]
+2024-07-25 21:58:15 Initializing Spring embedded WebApplicationContext
+2024-07-25 21:58:15 Root WebApplicationContext: initialization completed in 655 ms
+2024-07-25 21:58:15 Starting ProtocolHandler ["http-nio-8501"]
+2024-07-25 21:58:15 Tomcat started on port(s): 8501 (http) with context path ''
+2024-07-25 21:58:15 Started ManagerApplication in 1.606 seconds (process running for 2.109)
+2024-07-25 21:58:38 Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-07-25 21:58:38 Initializing Servlet 'dispatcherServlet'
+2024-07-25 21:58:38 Completed initialization in 1 ms
+2024-07-25 21:58:43 HikariPool-1 - Starting...
+2024-07-25 21:58:44 HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@27baad52
+2024-07-25 21:58:44 HikariPool-1 - Start completed.
+2024-07-25 22:01:05 HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@27baad52 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-07-25 22:01:05 HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@16238503 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-07-25 22:01:05 HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@61c0a7fd (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-07-25 22:01:05 HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@7656a150 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-07-25 22:01:05 HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@51091f7e (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-07-25 22:01:05 HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@5b8883c1 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-07-25 22:01:05 HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@3f132802 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-07-25 22:01:05 HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@7c0c4291 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-07-25 22:01:05 HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@65e74081 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-07-25 22:01:05 HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@7aee4177 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-07-25 22:04:05 HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@421dfcd8 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-07-25 22:04:05 HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@803f711 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-07-25 22:04:05 HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@3381f769 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-07-25 22:04:05 HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@17e8fcdb (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-07-25 22:04:05 HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@4db5e9c0 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-07-25 22:04:05 HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@36c19ca1 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-07-25 22:04:05 HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@54d89850 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-07-25 22:04:05 HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@4772cf37 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-07-25 22:04:05 HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@5c225e16 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-07-25 22:04:05 HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@66bcf5a7 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-07-25 22:19:36 HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@27ec99be (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-07-25 22:19:36 HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@787b7cde (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-07-25 22:19:36 HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@69db0ef0 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-07-25 22:19:36 HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@4de04cb8 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-07-25 22:19:36 HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@6b3421d (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-07-25 22:19:36 HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@258d4399 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-07-25 22:19:36 HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@14106556 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-07-25 22:19:36 HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@5b5a6ee0 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-07-25 22:19:36 HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@47e57c3c (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-07-25 22:19:36 HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@83b7ed2 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-07-25 22:22:27 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2m10s717ms).
+2024-07-25 22:39:43 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=16m45s877ms).
+2024-07-25 22:43:30 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2m32s274ms).
+2024-07-25 23:02:10 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=4m9s945ms).
+2024-07-25 23:02:37 HikariPool-1 - Shutdown initiated...
+2024-07-25 23:02:37 HikariPool-1 - Shutdown completed.

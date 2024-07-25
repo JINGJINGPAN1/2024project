@@ -1,13 +1,12 @@
 package com.atguigu.spzx.manager.service.impl;
 
 import cn.hutool.core.util.StrUtil;
-import cn.hutool.crypto.digest.DigestUtil;
 import com.alibaba.fastjson.JSON;
 import com.atguigu.spzx.common.exception.GuiguException;
 import com.atguigu.spzx.manager.mapper.SysRoleUserMapper;
 import com.atguigu.spzx.manager.mapper.SysUserMapper;
 import com.atguigu.spzx.manager.service.SysUserService;
-import com.atguigu.spzx.model.dto.system.AssginRoleDto;
+import com.atguigu.spzx.model.dto.system.AssignRoleDto;
 import com.atguigu.spzx.model.dto.system.LoginDto;
 import com.atguigu.spzx.model.dto.system.SysUserDto;
 import com.atguigu.spzx.model.entity.system.SysUser;
@@ -17,12 +16,9 @@ import com.github.pagehelper.PageHelper;
 import com.github.pagehelper.PageInfo;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.redis.core.RedisTemplate;
-import org.springframework.data.redis.core.ValueOperations;
 import org.springframework.stereotype.Service;
 import org.springframework.util.DigestUtils;
-import org.springframework.web.bind.annotation.PutMapping;
 
-import java.nio.charset.StandardCharsets;
 import java.util.List;
 import java.util.UUID;
 import java.util.concurrent.TimeUnit;
@@ -166,14 +162,14 @@ public class SysUserServiceImpl implements SysUserService {
 
     //用户分配角色
     @Override
-    public void doAssign(AssginRoleDto assginRoleDto) {
+    public void doAssign(AssignRoleDto assignRoleDto) {
         //1 根据userId删除用户之前分配角色数据
-        sysRoleUserMapper.deleteByUserId(assginRoleDto.getUserId());
+        sysRoleUserMapper.deleteByUserId(assignRoleDto.getUserId());
 
         // 2 重新分配新数据
-        List<Long> roleIdList = assginRoleDto.getRoleIdList();
+        List<Long> roleIdList = assignRoleDto.getRoleIdList();
         for(Long roleId : roleIdList){
-            sysRoleUserMapper.doAssign(assginRoleDto.getUserId(), roleId);
+            sysRoleUserMapper.doAssign(assignRoleDto.getUserId(), roleId);
         }
     }
 

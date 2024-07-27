@@ -14,4 +14,7 @@ public interface SysRoleMenuMapper {
 
     //保存分配数据
     void doAssign(AssignMenuDto assignMenuDto);
+
+    // 把父菜单的状态改为1
+    void updateSysRoleMenuIsHalf(Long id);
 }

@@ -2,6 +2,7 @@ package com.atguigu.spzx.manager.service.impl;
 
 import com.atguigu.spzx.common.exception.GuiguException;
 import com.atguigu.spzx.manager.mapper.SysMenuMapper;
+import com.atguigu.spzx.manager.mapper.SysRoleMenuMapper;
 import com.atguigu.spzx.manager.service.SysMenuService;
 import com.atguigu.spzx.manager.utils.MenuHelper;
 import com.atguigu.spzx.model.entity.system.SysMenu;
@@ -21,6 +22,8 @@ import java.util.List;
 public class SysMenuServiceImpl implements SysMenuService {
     @Autowired
     private SysMenuMapper sysMenuMapper;
+    @Autowired
+    private  SysRoleMenuMapper sysRoleMenuMapper;
     //修改菜单
     @Override
     public void update(SysMenu sysMenu) {
@@ -80,6 +83,20 @@ public class SysMenuServiceImpl implements SysMenuService {
     public void save(SysMenu sysMenu) {
         sysMenuMapper.save(sysMenu);
 
+        // 新添加子菜单，把父菜单的状态改为1
+        updateSysRoleMenu(sysMenu);
+
+    }
+
+    private void updateSysRoleMenu(SysMenu sysMenu) {
+        //获取当前父菜单
+        SysMenu parentMenu = sysMenuMapper.selectParentMenu(sysMenu.getParentId());
+        // 把父菜单的状态改为1
+        if(parentMenu != null){
+            sysRoleMenuMapper.updateSysRoleMenuIsHalf(parentMenu.getId());
+        }
+        //递归调用
+        updateSysRoleMenu(parentMenu);
     }
 
     @Override

@@ -47,6 +47,7 @@ module.exports = {
   rules: {
     'no-console': 0,
     'no-use-before-define': 'off',
+    'vue/no-multiple-template-root': 'off',
     'no-unused-vars': [
       'warn',
       {

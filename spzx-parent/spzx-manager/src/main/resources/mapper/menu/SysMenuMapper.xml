@@ -83,4 +83,12 @@
     </select>
 
 
+    <!--    //获取当前父菜单-->
+    <select id="selectParentMenu" resultMap="sysMenuMap">
+        select <include refid="columns"/>
+        from sys_menu
+        where id = #{parentId} and is_deleted = 0
+    </select>
+
+
 </mapper>

@@ -273,7 +273,7 @@ let total = ref(0)
 // 分页数据
 const pageParamsForm = {
   page: 1,
-  limit: 3,
+  limit: 10,
 }
 
 const pageParams = ref(pageParamsForm)

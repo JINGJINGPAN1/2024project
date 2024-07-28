@@ -10,6 +10,43 @@
         id, name, image_url, parent_id, status, order_num, create_time, update_time, is_deleted
     </sql>
 
+    <!--    //批量储存储存-->
+    <insert id="batchInsert">
+        insert into category (
+            id,
+            name,
+            image_url,
+            parent_id,
+            status,
+            order_num,
+            create_time ,
+            update_time ,
+            is_deleted
+        ) values
+              <foreach collection="categoryList" item="item" separator=",">
+              (
+                  #{item.id},
+                  #{item.name},
+                  #{item.imageUrl},
+                  #{item.parentId},
+                  #{item.status},
+                  #{item.orderNum},
+                  now(),
+                  now(),
+                  0
+                  )
+              </foreach>
+    </insert>
+
+
+    <!--    // 将从数据库中查询到的Category对象转-->
+    <select id="selectAll" resultMap="categoryMap">
+        select <include refid="columns"/>
+        from category
+        where is_deleted = 0
+        order by id
+    </select>
+
     <!-- 根据id查询下层数据 -->
     <select id="selectCategoryById" resultMap="categoryMap">
         select <include refid="columns"/>

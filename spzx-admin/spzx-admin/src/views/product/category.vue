@@ -1,9 +1,28 @@
 <template>
   <div>
     <div class="tools-div">
-      <el-button type="success" size="small">导出</el-button>
-      <el-button type="primary" size="small">导入</el-button>
+      <el-button type="success" size="small" @click="exportData">
+        导出
+      </el-button>
+      <el-button type="primary" size="small" @click="importData">
+        导入
+      </el-button>
     </div>
+
+    <el-dialog v-model="dialogImportVisible" title="导入" width="30%">
+      <el-form label-width="120px">
+        <el-form-item label="分类文件">
+          <el-upload
+            class="upload-demo"
+            action="http://localhost:8501/admin/product/category/importData"
+            :on-success="onUploadSuccess"
+            :headers="headers"
+          >
+            <el-button type="primary">上传</el-button>
+          </el-upload>
+        </el-form-item>
+      </el-form>
+    </el-dialog>
 
     <!---懒加载的树形表格-->
     <el-table
@@ -34,7 +53,7 @@
 
 <script setup>
 import { ref, onMounted } from 'vue'
-import { FindCategoryByParentId } from '@/api/category.js'
+import { FindCategoryByParentId, ExportCategoryData } from '@/api/category.js'
 import { ElMessage, ElMessageBox } from 'element-plus'
 
 // 定义list属性模型
@@ -53,6 +72,42 @@ const fetchData = async (row, treeNode, resolve) => {
 
   // 返回数据
   resolve(data)
+}
+
+//////////导入
+import { useApp } from '@/pinia/modules/app'
+
+// 文件上传相关变量以及方法定义
+const dialogImportVisible = ref(false)
+const headers = {
+  token: useApp().authorization.token, // 从pinia中获取token，在进行文件上传的时候将token设置到请求头中
+}
+const importData = () => {
+  dialogImportVisible.value = true
+}
+
+// 上传文件成功以后要执行方法
+const onUploadSuccess = async (response, file) => {
+  ElMessage.success('操作成功')
+  dialogImportVisible.value = false
+  const { data } = await FindCategoryByParentId(0)
+  list.value = data
+}
+
+//////////导出
+const exportData = () => {
+  // 调用 ExportCategoryData() 方法获取导出数据
+  ExportCategoryData().then(res => {
+    // 创建 Blob 对象，用于包含二进制数据
+    const blob = new Blob([res])
+    // 创建 a 标签元素，并将 Blob 对象转换成 URL
+    const link = document.createElement('a')
+    link.href = window.URL.createObjectURL(blob)
+    // 设置下载文件的名称
+    link.download = '分类数据.xlsx'
+    // 模拟点击下载链接
+    link.click()
+  })
 }
 </script>
 

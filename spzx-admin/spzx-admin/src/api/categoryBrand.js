@@ -19,3 +19,10 @@ export const SaveCategoryBrand = categoryBrand => {
     data: categoryBrand,
   })
 }
+
+export const FindBrandByCategoryId = categoryId => {
+  return request({
+    url: `${api_name}/findBrandByCategoryId/${categoryId}`,
+    method: 'get',
+  })
+}

@@ -16,6 +16,50 @@ public class ProductController {
     @Autowired
     private ProductService productService;
 
+    //商品上下架
+    @GetMapping("/updateStatus/{id}/{status}")
+    public Result updateStatus(@PathVariable Long id,
+                               @PathVariable Integer status) {
+        productService.updateStatus(id, status);
+        return Result.build(null , ResultCodeEnum.SUCCESS) ;
+    }
+
+    // 审核
+    @GetMapping("/updateAuditStatus/{id}/{auditStatus}")
+    public Result updateAuditStatus(@PathVariable Long id,
+                                    @PathVariable Integer auditStatus) {
+        productService.updateAuditStatus(id, auditStatus);
+        return Result.build(null , ResultCodeEnum.SUCCESS) ;
+    }
+
+    // 删除数据
+    @DeleteMapping("/deleteById/{id}")
+    public Result deleteById(@PathVariable Long id){
+        productService.deleteById(id);
+        return Result.build(null, ResultCodeEnum.SUCCESS);
+    }
+
+    //保存修改数据
+    @PutMapping("/updateById")
+    public Result updateById(@RequestBody Product product){
+        productService.updateById(product);
+        return Result.build(null, ResultCodeEnum.SUCCESS);
+    }
+
+    //根据商品id查询商品信息
+    @GetMapping("/getById/{id}")
+    public Result getById(@PathVariable Long id){
+        Product product = productService.getById(id);
+        return Result.build(product, ResultCodeEnum.SUCCESS);
+    }
+
+    //添加
+    @PostMapping("save")
+    public Result save(@RequestBody Product product){
+        productService.save(product);
+        return Result.build(null, ResultCodeEnum.SUCCESS);
+    }
+
     //条件分页查询接口
     @GetMapping("/{page}/{limit}")
     public Result findByPage(@PathVariable Integer page,

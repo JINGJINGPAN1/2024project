@@ -38,7 +38,6 @@ public class CategoryBrandServiceImpl implements CategoryBrandService {
     //根据分类id查询brand
     @Override
     public List<Brand> findBrandByCategoryId(Long categoryId) {
-        List <Brand> list = categoryBrandMapper.findBrandByCategoryId(categoryId);
-        return list;
+        return categoryBrandMapper.findBrandByCategoryId(categoryId);
     }
 }

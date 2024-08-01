@@ -1,5 +1,7 @@
 package com.atguigu.spzx.manager.controller;
 
+import com.atguigu.spzx.common.log.annotation.Log;
+import com.atguigu.spzx.common.log.enums.OperatorType;
 import com.atguigu.spzx.manager.service.SysUserService;
 import com.atguigu.spzx.model.dto.system.AssignRoleDto;
 import com.atguigu.spzx.model.dto.system.SysUserDto;
@@ -16,6 +18,7 @@ public class SysUserController {
     @Autowired
     private SysUserService sysUserService;
 
+    @Log(title = "系统用户： 查询", businessType = 0, operatorType = OperatorType.OTHER)
     // 1 用户条件分页查询接口
     @GetMapping(value = "/findByPage/{pageNum}/{pageSize}")
     public Result findByPage(@PathVariable("pageNum") Integer pageNum,

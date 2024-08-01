@@ -21,6 +21,7 @@
   ],
   "dependencies": {
     "axios": "^0.21.1",
+    "echarts": "^5.5.1",
     "pinia": "^2.1.7",
     "vue": "3.3.0",
     "vue-router": "^4.0.5",

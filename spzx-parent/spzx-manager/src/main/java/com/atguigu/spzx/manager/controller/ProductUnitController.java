@@ -18,7 +18,7 @@ public class ProductUnitController {
     private ProductUnitService productUnitService;
 
     //查询所有
-    @GetMapping("/findAll")
+    @GetMapping("findAll")
     public Result findAll(){
         List<ProductUnit> list = productUnitService.findAll();
         return Result.build(list, ResultCodeEnum.SUCCESS);

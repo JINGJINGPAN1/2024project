@@ -5672,3 +5672,86 @@ java.lang.NullPointerException: Cannot invoke "com.atguigu.spzx.model.entity.ord
 2024-08-01 14:03:02 HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@1bb331fa (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
 2024-08-01 14:03:17 HikariPool-1 - Shutdown initiated...
 2024-08-01 14:03:17 HikariPool-1 - Shutdown completed.
+2024-08-01 14:07:21 Starting ManagerApplication using Java 17.0.11 with PID 71376 (/Users/jingjingpan/Desktop/2024project/spzx-parent/spzx-manager/target/classes started by jingjingpan in /Users/jingjingpan/Desktop/2024project/spzx-parent)
+2024-08-01 14:07:21 The following 1 profile is active: "dev"
+2024-08-01 14:07:21 Multiple Spring Data modules found, entering strict repository configuration mode
+2024-08-01 14:07:21 Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-08-01 14:07:21 Finished Spring Data repository scanning in 5 ms. Found 0 Redis repository interfaces.
+2024-08-01 14:07:21 Tomcat initialized with port(s): 8501 (http)
+2024-08-01 14:07:21 Initializing ProtocolHandler ["http-nio-8501"]
+2024-08-01 14:07:21 Starting service [Tomcat]
+2024-08-01 14:07:21 Starting Servlet engine: [Apache Tomcat/10.1.7]
+2024-08-01 14:07:21 Initializing Spring embedded WebApplicationContext
+2024-08-01 14:07:21 Root WebApplicationContext: initialization completed in 708 ms
+2024-08-01 14:07:22 Starting ProtocolHandler ["http-nio-8501"]
+2024-08-01 14:07:22 Tomcat started on port(s): 8501 (http) with context path ''
+2024-08-01 14:07:22 Started ManagerApplication in 1.909 seconds (process running for 2.313)
+2024-08-01 14:07:32 Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-08-01 14:07:32 Initializing Servlet 'dispatcherServlet'
+2024-08-01 14:07:32 Completed initialization in 2 ms
+2024-08-01 14:07:32 HikariPool-1 - Starting...
+2024-08-01 14:07:33 HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@1997f5d8
+2024-08-01 14:07:33 HikariPool-1 - Start completed.
+2024-08-01 14:11:33 HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@1997f5d8 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-08-01 14:11:33 HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@36630fb0 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-08-01 14:11:33 HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@581c77d8 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-08-01 14:11:33 HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@3bd28707 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-08-01 14:11:33 HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@28403237 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-08-01 14:11:33 HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@6f0a600 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-08-01 14:11:33 HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@3d69a3b1 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-08-01 14:11:33 HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@12ace1a4 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-08-01 14:11:33 HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@3b54a84c (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-08-01 14:11:33 HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@3897d980 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-08-01 14:57:44 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=15m38s854ms).
+2024-08-01 15:14:51 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=15m36s772ms).
+2024-08-01 15:31:35 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=16m14s711ms).
+2024-08-01 15:35:36 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=3m30s922ms).
+2024-08-01 15:51:28 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=15m51s823ms).
+2024-08-01 15:54:58 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2m29s836ms).
+2024-08-01 15:58:28 HikariPool-1 - Shutdown initiated...
+2024-08-01 15:58:28 HikariPool-1 - Shutdown completed.
+2024-08-01 15:58:33 Starting ManagerApplication using Java 17.0.11 with PID 72124 (/Users/jingjingpan/Desktop/2024project/spzx-parent/spzx-manager/target/classes started by jingjingpan in /Users/jingjingpan/Desktop/2024project/spzx-parent)
+2024-08-01 15:58:33 The following 1 profile is active: "dev"
+2024-08-01 15:58:33 Multiple Spring Data modules found, entering strict repository configuration mode
+2024-08-01 15:58:33 Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-08-01 15:58:33 Finished Spring Data repository scanning in 5 ms. Found 0 Redis repository interfaces.
+2024-08-01 15:58:33 Tomcat initialized with port(s): 8501 (http)
+2024-08-01 15:58:33 Initializing ProtocolHandler ["http-nio-8501"]
+2024-08-01 15:58:33 Starting service [Tomcat]
+2024-08-01 15:58:33 Starting Servlet engine: [Apache Tomcat/10.1.7]
+2024-08-01 15:58:33 Initializing Spring embedded WebApplicationContext
+2024-08-01 15:58:33 Root WebApplicationContext: initialization completed in 611 ms
+2024-08-01 15:58:34 Starting ProtocolHandler ["http-nio-8501"]
+2024-08-01 15:58:34 Tomcat started on port(s): 8501 (http) with context path ''
+2024-08-01 15:58:34 Started ManagerApplication in 1.564 seconds (process running for 2.029)
+2024-08-01 15:59:18 Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-08-01 15:59:18 Initializing Servlet 'dispatcherServlet'
+2024-08-01 15:59:18 Completed initialization in 2 ms
+2024-08-01 15:59:24 HikariPool-1 - Starting...
+2024-08-01 15:59:24 HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@77666568
+2024-08-01 15:59:24 HikariPool-1 - Start completed.
+2024-08-01 16:09:54 HikariPool-1 - Retrograde clock change detected (housekeeper delta=29s700ms), soft-evicting connections from pool.
+2024-08-01 16:13:04 HikariPool-1 - Shutdown initiated...
+2024-08-01 16:13:04 HikariPool-1 - Shutdown completed.
+2024-08-01 16:13:08 Starting ManagerApplication using Java 17.0.11 with PID 72411 (/Users/jingjingpan/Desktop/2024project/spzx-parent/spzx-manager/target/classes started by jingjingpan in /Users/jingjingpan/Desktop/2024project/spzx-parent)
+2024-08-01 16:13:08 The following 1 profile is active: "dev"
+2024-08-01 16:13:08 Multiple Spring Data modules found, entering strict repository configuration mode
+2024-08-01 16:13:08 Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-08-01 16:13:08 Finished Spring Data repository scanning in 5 ms. Found 0 Redis repository interfaces.
+2024-08-01 16:13:09 Tomcat initialized with port(s): 8501 (http)
+2024-08-01 16:13:09 Initializing ProtocolHandler ["http-nio-8501"]
+2024-08-01 16:13:09 Starting service [Tomcat]
+2024-08-01 16:13:09 Starting Servlet engine: [Apache Tomcat/10.1.7]
+2024-08-01 16:13:09 Initializing Spring embedded WebApplicationContext
+2024-08-01 16:13:09 Root WebApplicationContext: initialization completed in 614 ms
+2024-08-01 16:13:09 Starting ProtocolHandler ["http-nio-8501"]
+2024-08-01 16:13:09 Tomcat started on port(s): 8501 (http) with context path ''
+2024-08-01 16:13:09 Started ManagerApplication in 1.645 seconds (process running for 2.101)
+2024-08-01 16:13:22 Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-08-01 16:13:22 Initializing Servlet 'dispatcherServlet'
+2024-08-01 16:13:22 Completed initialization in 1 ms
+2024-08-01 16:13:22 HikariPool-1 - Starting...
+2024-08-01 16:13:22 HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@6788f1eb
+2024-08-01 16:13:22 HikariPool-1 - Start completed.
+2024-08-01 16:16:34 HikariPool-1 - Shutdown initiated...
+2024-08-01 16:16:34 HikariPool-1 - Shutdown completed.
